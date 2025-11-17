@@ -38,11 +38,24 @@ This project demonstrates a complete, end-to-end implementation of the osTicket 
 
 <h3>Step 1. Install and Configure osTicket (Server Setup)</h3>
 
-<h4>1. Lorem</h4>
+<h4>1. Create a virtual machine and create a new Resource Group.</h4>
 
 <p>
   <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+
+<h4>2. Lorem</h4>
+
+<p>
+  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<h4>3. Lorem</h4>
+
+<p>
+  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
 
 <h4>Step 1 Summary</h4>
 
