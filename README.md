@@ -17,9 +17,14 @@ This project demonstrates a complete, end-to-end implementation of the osTicket 
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
+- Microsoft Azure (Resource Group, Virtual Network (VNet), Subnet, and a Windows 10 Virtual Machine)
 - Remote Desktop (RDP)
 - Internet Information Services (IIS)
+- PHP Manager (Required for IIS)
+- Microsoft URL Rewrite Module (rewrite_amd64_en-US.msi) (Required for IIS)
+- Microsoft Visual C++ Redistributable (VC_redist.x86) (Required for PHP and MySQL)
+- MySQL Server 5.5.62 (Database engine used by osTicket)
+- HeidiSQL (Database management tool)
 
 <h2>Operating Systems Used </h2>
 
