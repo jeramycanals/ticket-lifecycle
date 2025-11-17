@@ -1,5 +1,9 @@
 <p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+  <img width="415" height="143" alt="image" src="https://github.com/user-attachments/assets/b49951e3-1e1e-405f-8dc8-b27637000c9d" />
+
+
+
+  <img width="296" height="64" alt="image" src="https://github.com/user-attachments/assets/43ccd50d-8f73-462d-9cef-53ac9ae102e8" />
 </p>
 
 <h1>osTicket Help Desk Ticketing System: Installation, Configuration, and Ticket Lifecycle Management</h1>
