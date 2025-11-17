@@ -11,8 +11,8 @@ This project demonstrates a complete, end-to-end implementation of the osTicket 
 
 <p align="center">
   <img width="887" height="413" alt="image" src="https://github.com/user-attachments/assets/501319e6-d24d-4123-b23e-ecdff8b0e76f" />
-  <img width="870" height="503" alt="image" src="https://github.com/user-attachments/assets/fb9fb51d-f0db-4009-8851-72c33fc432e4" />
   <img width="852" height="421" alt="image" src="https://github.com/user-attachments/assets/65028d67-d760-4f43-99d2-4b0e23ceb684" />
+  <img width="870" height="503" alt="image" src="https://github.com/user-attachments/assets/fb9fb51d-f0db-4009-8851-72c33fc432e4" />
 </p>
 
 <h2>Environments and Technologies Used</h2>
