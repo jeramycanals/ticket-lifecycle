@@ -6,7 +6,7 @@
   <img width="296" height="64" alt="image" src="https://github.com/user-attachments/assets/43ccd50d-8f73-462d-9cef-53ac9ae102e8" />
 </p>
 
-<h1>osTicket Ticketing System: Installation, Configuration, and Ticket Lifecycle Demonstration</h1>
+<h1>osTicket Help Desk Ticketing System: Installation, Configuration, and Ticket Lifecycle Management</h1>
 This overview outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
 
 <h2>Environments and Technologies Used</h2>
