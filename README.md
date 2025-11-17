@@ -10,6 +10,7 @@ This project demonstrates a complete, end-to-end implementation of the osTicket 
 </p>
 
 <p align="center">
+  <img width="887" height="413" alt="image" src="https://github.com/user-attachments/assets/501319e6-d24d-4123-b23e-ecdff8b0e76f" />
   <img width="870" height="503" alt="image" src="https://github.com/user-attachments/assets/fb9fb51d-f0db-4009-8851-72c33fc432e4" />
   <img width="852" height="421" alt="image" src="https://github.com/user-attachments/assets/65028d67-d760-4f43-99d2-4b0e23ceb684" />
 </p>
@@ -26,10 +27,16 @@ This project demonstrates a complete, end-to-end implementation of the osTicket 
 
 <h2>High-Level Steps</h2>
 
-- Intake
-- Assignment and Communication
-- Working the Issue
-- Resolution
+- Step 1.
+- Step 2.
+- Step 3.
+- Step 4.
+- Step 5.
+- Step 6.
+- Step 7.
+- Step 8.
+- Step 9.
+- Step 10.
 
 <h3>Step 1. </h3>
 
