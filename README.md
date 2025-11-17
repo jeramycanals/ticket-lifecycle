@@ -9,17 +9,22 @@
 This project demonstrates a complete, end-to-end implementation of the osTicket Help Desk Ticketing System, including installation, configuration, and real-world ticket lifecycle management. The lab begins with deploying a Windows 10 virtual machine in Azure and installing the full osTicket stack, which includes Windows IIS, PHP, MySQL, and required modules, followed by the initial setup of the help desk environment. After installation, we configure core administrative components such as roles, departments, teams, agents, users, SLAs, and help topics to simulate how organizations structure their support workflows. The final section focuses on real operational behavior: creating support tickets as end users, assigning and updating them as help desk agents, applying SLA policies, escalating issues, resolving incidents, and observing how permissions affect visibility and access. Together, these steps provide hands-on experience with a real ticketing system and demonstrate foundational skills for IT, networking, and cybersecurity professionals.
 </p>
 
+<p align="center">
+  <img width="870" height="503" alt="image" src="https://github.com/user-attachments/assets/fb9fb51d-f0db-4009-8851-72c33fc432e4" />
+  <img width="852" height="421" alt="image" src="https://github.com/user-attachments/assets/65028d67-d760-4f43-99d2-4b0e23ceb684" />
+</p>
+
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
+- Remote Desktop (RDP)
 - Internet Information Services (IIS)
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 10 (22H2)
 
-<h2>Ticket Lifecycle Stages</h2>
+<h2>High-Level Steps</h2>
 
 - Intake
 - Assignment and Communication
