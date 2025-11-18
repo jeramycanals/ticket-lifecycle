@@ -38,10 +38,12 @@ This project demonstrates a complete, end-to-end implementation of the osTicket 
 
 <h3>Step 1. Install and Configure osTicket (Server Setup)</h3>
 
-<h4>1. Create a virtual machine and create a new Resource Group.</h4>
+<h4>1. Create a Virtual Machine and a new Resource Group during deployment. Use the settings shown below and choose your own secure password. Click Next, and allow Azure to automatically create a new Virtual Network and Subnet.</h4>
 
 <p>
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img width="783" height="829" alt="image" src="https://github.com/user-attachments/assets/d75b0b32-0346-4c00-91bf-b98c377d3cd3" />
+  <img width="772" height="838" alt="image" src="https://github.com/user-attachments/assets/ed2f1754-34a0-4330-a879-02cfcaccab67" />
+  <img width="760" height="808" alt="image" src="https://github.com/user-attachments/assets/ce22ccef-5b24-43e0-bcc9-7309db37657e" />
 </p>
 
 <h4>2. Lorem</h4>
