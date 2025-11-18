@@ -70,7 +70,7 @@ This project demonstrates a complete, end-to-end implementation of the osTicket 
 <h4>5. From the osTicket-Installation-Files folder, run and install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi).</h4>
 
 <p>
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img width="805" height="726" alt="image" src="https://github.com/user-attachments/assets/14544eac-1feb-484b-b92b-819fd7994d6a" />
 </p>
 
 <h4>6. </h4>
