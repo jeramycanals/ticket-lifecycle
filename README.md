@@ -52,7 +52,7 @@ This project demonstrates a complete, end-to-end implementation of the osTicket 
   <img width="620" height="388" alt="image" src="https://github.com/user-attachments/assets/b707bff0-503d-4dd4-8665-1504e152d90d" />
 </p>
 
-<h4>3. Inside the VM (osticket-vm), download the osTicket-Installation-Files.zip file using the following link: https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD and unzip it to the desktop. The extracted folder will be named osTicket-Installation-Files, and you will use its contents to install osTicket and the required dependencies.</h4>
+<h4>3. Inside the VM (osticket-vm), download the "osTicket-Installation-Files.zip" file using the following link: https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD and unzip it to the desktop. The extracted folder will be named "osTicket-Installation-Files", and you will use its contents to install osTicket and the required dependencies.</h4>
 
 <p>
   <img width="1137" height="201" alt="image" src="https://github.com/user-attachments/assets/fa3cc8a4-fd0a-4fd7-9f5e-53cd85789342" />
@@ -60,26 +60,26 @@ This project demonstrates a complete, end-to-end implementation of the osTicket 
   <img width="676" height="240" alt="image" src="https://github.com/user-attachments/assets/e158acfb-b18f-439d-b24c-54cc432250b6" />
 </p>
 
-<h4>4. Install Internet Information Services (IIS) and make sure CGI is enabled. To do this, open the Control Panel, select Uninstall a program, then click Turn Windows features on or off. Check the Internet Information Services box, then expand it and go to World Wide Web Services → Application Development Features and check the CGI box and click OK. To verify IIS is installed, open a web browser and go to 127.0.0.1, and the default IIS webpage should load.</h4>
+<h4>4. Install Internet Information Services (IIS) and make sure CGI is enabled. To do this, open the Control Panel, select Uninstall a program, then click Turn Windows features on or off. Check the Internet Information Services box, then expand it and go to World Wide Web Services → Application Development Features and check the CGI box and click OK. To verify IIS is installed, open a web browser and go to 127.0.0.1; the default IIS webpage should load.</h4>
 
 <p>
   <img width="625" height="773" alt="image" src="https://github.com/user-attachments/assets/83df2a72-140a-4be5-80f7-25630cf196f8" />
   <img width="923" height="717" alt="image" src="https://github.com/user-attachments/assets/2d5d715a-8abd-4fe3-9716-bf8bd3886782" />
 </p>
 
-<h4>5. From the osTicket-Installation-Files folder, run and install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi).</h4>
+<h4>5. From the "osTicket-Installation-Files" folder, run and install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi).</h4>
 
 <p>
   <img width="805" height="726" alt="image" src="https://github.com/user-attachments/assets/14544eac-1feb-484b-b92b-819fd7994d6a" />
 </p>
 
-<h4>6. From the osTicket-Installation-Files folder, install the URL Rewrite Module (rewrite_amd64_en-US.msi).</h4>
+<h4>6. From the "osTicket-Installation-Files" folder, install the URL Rewrite Module (rewrite_amd64_en-US.msi).</h4>
 
 <p>
   <img width="803" height="720" alt="image" src="https://github.com/user-attachments/assets/04d736c6-3381-45b3-b206-4d254311c147" />
 </p>
 
-<h4>7. Create the directory C:\PHP. Then, from the osTicket-Installation-Files folder, unzip PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) into the C:\PHP folder.</h4>
+<h4>7. Create the directory C:\PHP. Then, from the "osTicket-Installation-Files" folder, unzip PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) into the C:\PHP folder.</h4>
 
 <p>
   <img width="805" height="381" alt="image" src="https://github.com/user-attachments/assets/1672bdd7-cec6-4fc0-94a9-040f4d698f07" />
@@ -87,7 +87,7 @@ This project demonstrates a complete, end-to-end implementation of the osTicket 
   <img width="835" height="936" alt="image" src="https://github.com/user-attachments/assets/ccddbc95-e925-40ae-95bc-c91377da298a" />
 </p>
 
-<h4>8. </h4>
+<h4>8. From the "osTicket-Installation-Files" folder, install VC_redist.x86.exe.</h4>
 
 <p>
   <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
