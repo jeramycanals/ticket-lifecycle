@@ -100,10 +100,11 @@ This project demonstrates a complete, end-to-end implementation of the osTicket 
   <img width="802" height="685" alt="image" src="https://github.com/user-attachments/assets/4fb27a57-ccd3-4534-888a-58cd6fbe822e" />
 </p>
 
-<h4>10. </h4>
+<h4>10. Open Internet Information Services (IIS) Manager by typing “IIS” in the Windows search bar, right-clicking Internet Information Services (IIS) Manager, and selecting Run as administrator.</h4>
 
 <p>
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img width="827" height="677" alt="image" src="https://github.com/user-attachments/assets/1848e3af-e63a-4d60-ae25-08027b221215" />
+  <img width="862" height="747" alt="image" src="https://github.com/user-attachments/assets/de276363-54fd-4a98-9a9a-6bcfcd025f17" />
 </p>
 
 <h4>11. </h4>
