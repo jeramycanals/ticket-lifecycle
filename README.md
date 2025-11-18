@@ -60,10 +60,10 @@ This project demonstrates a complete, end-to-end implementation of the osTicket 
   <img width="676" height="240" alt="image" src="https://github.com/user-attachments/assets/e158acfb-b18f-439d-b24c-54cc432250b6" />
 </p>
 
-<h4>4. </h4>
+<h4>4. Install Internet Information Services (IIS) and make sure CGI is enabled. To do this, open the Control Panel, select Uninstall a program, then click Turn Windows features on or off. Check the Internet Information Services box, then expand it and go to World Wide Web Services → Application Development Features and check the CGI box and click OK.</h4>
 
 <p>
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img width="625" height="773" alt="image" src="https://github.com/user-attachments/assets/83df2a72-140a-4be5-80f7-25630cf196f8" />
 </p>
 
 <h4>5. </h4>
