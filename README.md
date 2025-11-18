@@ -158,10 +158,14 @@ This project demonstrates a complete, end-to-end implementation of the osTicket 
   <img width="823" height="248" alt="image" src="https://github.com/user-attachments/assets/d3f1b7b0-fed3-4871-9358-ca5603676164" />
 </p>
 
-<h4>18. Lorem</h4>
+<h4>18. Assign Permissions to ost-config.php: Right-click "ost-config.php" and select "Properties," then go to Security → Advanced. Click "Disable inheritance," choose "Remove all inherited permissions from this object." Next, add a new permission entry for Everyone with Full Control by clicking Add → Select a principal, entering "everyone" in the object name field, clicking "Check Names," then clicking OK. In Basic permissions, check Full control, click OK, then click Apply and OK to save the changes.</h4>
 
 <p>
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img width="1042" height="620" alt="image" src="https://github.com/user-attachments/assets/8945a913-2c93-43a9-a238-f4491323c1c3" />
+  <img width="912" height="621" alt="image" src="https://github.com/user-attachments/assets/26739837-ab83-448d-bfc1-8d2cfddc3068" />
+  <img width="927" height="719" alt="image" src="https://github.com/user-attachments/assets/ceccdad4-7532-4f46-a655-536492328519" />
+  <img width="906" height="584" alt="image" src="https://github.com/user-attachments/assets/22f90c0e-9a60-44c0-bcee-04cf4575b943" />
+  <img width="918" height="626" alt="image" src="https://github.com/user-attachments/assets/12c71717-2cad-40e5-91ad-1cbfaf6db683" />
 </p>
 
 <h4>19. Lorem</h4>
