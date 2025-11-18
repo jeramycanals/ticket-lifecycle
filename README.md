@@ -90,7 +90,7 @@ This project demonstrates a complete, end-to-end implementation of the osTicket 
 <h4>8. From the "osTicket-Installation-Files" folder, install VC_redist.x86.exe.</h4>
 
 <p>
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img width="807" height="626" alt="image" src="https://github.com/user-attachments/assets/269dd25b-9dc1-47e3-9e5e-e2e4c532131a" />
 </p>
 
 <h4>9. </h4>
