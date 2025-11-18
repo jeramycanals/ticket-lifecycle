@@ -46,10 +46,10 @@ This project demonstrates a complete, end-to-end implementation of the osTicket 
   <img width="760" height="808" alt="image" src="https://github.com/user-attachments/assets/ce22ccef-5b24-43e0-bcc9-7309db37657e" />
 </p>
 
-<h4>2. Lorem</h4>
+<h4>2. Use Remote Desktop (RDP) to connect to your Virtual Machine. Enter the public IP address of the VM along with the username and password you created.</h4>
 
 <p>
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img width="620" height="388" alt="image" src="https://github.com/user-attachments/assets/b707bff0-503d-4dd4-8665-1504e152d90d" />
 </p>
 
 <h4>3. Lorem</h4>
