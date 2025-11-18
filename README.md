@@ -93,10 +93,11 @@ This project demonstrates a complete, end-to-end implementation of the osTicket 
   <img width="807" height="626" alt="image" src="https://github.com/user-attachments/assets/269dd25b-9dc1-47e3-9e5e-e2e4c532131a" />
 </p>
 
-<h4>9. </h4>
+<h4>9. From the "osTicket-Installation-Files" folder, install MySQL 5.5.62 (mysql-5.5.62-win32.msi). Choose Typical Setup, then launch the MySQL Instance Configuration Wizard after installation. Select Standard Configuration and create a MySQL username and password, and complete the MySQL Server installation.</h4>
 
 <p>
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img width="811" height="692" alt="image" src="https://github.com/user-attachments/assets/f9c44b4f-281b-4a52-a88c-7d95d9eee55a" />
+  <img width="802" height="685" alt="image" src="https://github.com/user-attachments/assets/4fb27a57-ccd3-4534-888a-58cd6fbe822e" />
 </p>
 
 <h4>10. </h4>
