@@ -136,7 +136,32 @@ This project demonstrates a complete, end-to-end implementation of the osTicket 
   <img width="794" height="623" alt="image" src="https://github.com/user-attachments/assets/e60bd18f-988b-4066-977f-403d40784a7d" />
 </p>
 
-<h4>15. </h4>
+<h4>15. Open the osTicket Site in IIS: In IIS, navigate to Sites → Default Web Site → osTicket. On the right-hand panel, click “Browse *:80” to open the osTicket setup page in your browser.</h4>
+
+<p>
+  <img width="639" height="622" alt="image" src="https://github.com/user-attachments/assets/1431a486-fd01-4d16-86ed-5c103af8cb7e" />
+  <img width="946" height="878" alt="image" src="https://github.com/user-attachments/assets/6b25d1ef-2bd8-4a01-80bf-5d35aff97902" />
+</p>
+
+<h4>16. Lorem</h4>
+
+<p>
+  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<h4>17. Lorem</h4>
+
+<p>
+  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<h4>18. Lorem</h4>
+
+<p>
+  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<h4>19. Lorem</h4>
 
 <p>
   <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
