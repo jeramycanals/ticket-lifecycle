@@ -114,10 +114,11 @@ This project demonstrates a complete, end-to-end implementation of the osTicket 
   <img width="951" height="751" alt="image" src="https://github.com/user-attachments/assets/fd4d58ed-1645-4530-ad42-cafffe5ff12b" />
 </p>
 
-<h4>12. </h4>
+<h4>12. Reload IIS (Open IIS, then Stop and Start the server to reload IIS).</h4>
 
 <p>
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img width="795" height="624" alt="image" src="https://github.com/user-attachments/assets/926ab575-1cbc-4d39-b5eb-ae429dc85176" />
+  <img width="797" height="624" alt="image" src="https://github.com/user-attachments/assets/dc700cd3-43fe-4070-ad6a-fef4675a7d16" />
 </p>
 
 <h4>13. </h4>
