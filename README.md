@@ -121,10 +121,12 @@ This project demonstrates a complete, end-to-end implementation of the osTicket 
   <img width="797" height="624" alt="image" src="https://github.com/user-attachments/assets/dc700cd3-43fe-4070-ad6a-fef4675a7d16" />
 </p>
 
-<h4>13. </h4>
+<h4>13. Install osTicket v1.15.8: From the "osTicket-Installation-Files" folder, unzip "osTicket-v1.15.8.zip" and copy the "upload" folder into "C:\inetpub\wwwroot." Inside "C:\inetpub\wwwroot," rename the "upload" folder to "osTicket."</h4>
 
 <p>
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img width="806" height="765" alt="image" src="https://github.com/user-attachments/assets/61334dc4-0de1-4f55-9238-2d9db31ac847" />
+  <img width="813" height="368" alt="image" src="https://github.com/user-attachments/assets/e26434df-9740-4c7d-a222-8e123fe69a07" />
+  <img width="811" height="203" alt="image" src="https://github.com/user-attachments/assets/a7ff81ef-437d-45d2-a940-9d0444354cc2" />
 </p>
 
 <h4>14. </h4>
