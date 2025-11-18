@@ -104,13 +104,14 @@ This project demonstrates a complete, end-to-end implementation of the osTicket 
 
 <p>
   <img width="827" height="677" alt="image" src="https://github.com/user-attachments/assets/1848e3af-e63a-4d60-ae25-08027b221215" />
-  <img width="862" height="747" alt="image" src="https://github.com/user-attachments/assets/de276363-54fd-4a98-9a9a-6bcfcd025f17" />
+  <img width="957" height="748" alt="image" src="https://github.com/user-attachments/assets/24e57107-a024-4956-b425-e4198ee2e6c1" />
 </p>
 
-<h4>11. </h4>
+<h4>11. In IIS, open PHP Manager, then click Register new PHP version. Browse to C:\PHP\php-cgi.exe, select it, and click OK to register PHP.</h4>
 
 <p>
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img width="951" height="611" alt="image" src="https://github.com/user-attachments/assets/293b7280-f025-479c-99fd-181483afa9d5" />
+  <img width="951" height="751" alt="image" src="https://github.com/user-attachments/assets/fd4d58ed-1645-4530-ad42-cafffe5ff12b" />
 </p>
 
 <h4>12. </h4>
