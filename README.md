@@ -143,10 +143,12 @@ This project demonstrates a complete, end-to-end implementation of the osTicket 
   <img width="946" height="878" alt="image" src="https://github.com/user-attachments/assets/6b25d1ef-2bd8-4a01-80bf-5d35aff97902" />
 </p>
 
-<h4>16. Lorem</h4>
+<h4>16. Enable Required PHP Extensions: When opening the osTicket setup page, you will notice that several PHP extensions are not enabled. To fix this, go back to IIS → Sites → Default Web Site → osTicket, open PHP Manager, and click “Enable or disable an extension.” Enable php_imap.dll, php_intl.dll, and php_opcache.dll, then refresh the osTicket page in your browser to see the changes.</h4>
 
 <p>
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img width="762" height="743" alt="image" src="https://github.com/user-attachments/assets/1c043fbf-f610-43b1-ac98-482899eb25c4" />
+  <img width="764" height="748" alt="image" src="https://github.com/user-attachments/assets/786aae1c-b6cb-4f12-8be1-953ddab48da1" />
+  <img width="947" height="885" alt="image" src="https://github.com/user-attachments/assets/3a85f950-cbbe-4e58-a69e-b861a8ebc437" />
 </p>
 
 <h4>17. Lorem</h4>
