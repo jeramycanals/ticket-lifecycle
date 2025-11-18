@@ -20,8 +20,8 @@ This project demonstrates a complete, end-to-end implementation of the osTicket 
 - Microsoft Azure (Resource Group, Virtual Network (VNet), Subnet, and a Windows 10 Virtual Machine)
 - Remote Desktop (RDP)
 - Internet Information Services (IIS)
-- PHP Manager (Required for IIS)
-- Microsoft URL Rewrite Module (rewrite_amd64_en-US.msi) (Required for IIS)
+- PHP Manager for IIS
+- IIS URL Rewrite Module 2 (rewrite_amd64_en-US.msi)
 - Microsoft Visual C++ Redistributable (VC_redist.x86) (Required for PHP and MySQL)
 - MySQL Server 5.5.62 (Database engine used by osTicket)
 - HeidiSQL (Database management tool)
@@ -73,16 +73,18 @@ This project demonstrates a complete, end-to-end implementation of the osTicket 
   <img width="805" height="726" alt="image" src="https://github.com/user-attachments/assets/14544eac-1feb-484b-b92b-819fd7994d6a" />
 </p>
 
-<h4>6. </h4>
+<h4>6. From the osTicket-Installation-Files folder, install the URL Rewrite Module (rewrite_amd64_en-US.msi).</h4>
 
 <p>
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img width="803" height="720" alt="image" src="https://github.com/user-attachments/assets/04d736c6-3381-45b3-b206-4d254311c147" />
 </p>
 
-<h4>7. </h4>
+<h4>7. Create the directory C:\PHP. Then, from the osTicket-Installation-Files folder, unzip PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) into the C:\PHP folder.</h4>
 
 <p>
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img width="805" height="381" alt="image" src="https://github.com/user-attachments/assets/1672bdd7-cec6-4fc0-94a9-040f4d698f07" />
+  <img width="801" height="756" alt="image" src="https://github.com/user-attachments/assets/192393be-619a-440f-a305-5627a00c7e9e" />
+  <img width="835" height="936" alt="image" src="https://github.com/user-attachments/assets/ccddbc95-e925-40ae-95bc-c91377da298a" />
 </p>
 
 <h4>8. </h4>
