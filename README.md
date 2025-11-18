@@ -151,10 +151,11 @@ This project demonstrates a complete, end-to-end implementation of the osTicket 
   <img width="947" height="885" alt="image" src="https://github.com/user-attachments/assets/3a85f950-cbbe-4e58-a69e-b861a8ebc437" />
 </p>
 
-<h4>17. Lorem</h4>
+<h4>17. Rename the osTicket Configuration File: Navigate to C:\inetpub\wwwroot\osTicket\include and rename ost-sampleconfig.php to ost-config.php.</h4>
 
 <p>
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img width="819" height="249" alt="image" src="https://github.com/user-attachments/assets/48667cae-377a-4987-95f1-b0ced3863b60" />
+  <img width="823" height="248" alt="image" src="https://github.com/user-attachments/assets/d3f1b7b0-fed3-4871-9358-ca5603676164" />
 </p>
 
 <h4>18. Lorem</h4>
