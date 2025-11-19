@@ -234,7 +234,7 @@ Part 1 of this lab walks through building the complete osTicket server environme
   <img width="1104" height="823" alt="image" src="https://github.com/user-attachments/assets/e29ac729-7f5d-43a3-bd27-2a1c16a3b975" />
 </p>
 
-<h4>Step 26. Create a new Role:  In the Admin Panel, go to Agents → Roles → Add New Role. Name the role “Supreme Admin”, then open the Permissions tab. Under Tickets, check every permission box to grant full ticket management capabilities. Next, click Tasks and check every box to enable full task-related permissions. Then click Knowledgebase and check its available permission as well. Once all permissions are selected, click Add Role to create the new Supreme Admin role.</h4>
+<h4>Step 26. Create a new Role:  In the Admin Panel, go to Agents → Roles → Add New Role. Name the role “Supreme Admin”, then open the Permissions tab. Under Tickets, check every permission box to grant full ticket management capabilities. Next, click Tasks and check every box to enable full task-related permissions. Then click Knowledgebase and check its available permission as well. Once all permissions are selected, click "Add Role" to create the new Supreme Admin role.</h4>
 
 <p>
   <img width="1109" height="687" alt="image" src="https://github.com/user-attachments/assets/a74ef049-7096-4673-82b1-a8ed95fbe6fa" />
@@ -244,10 +244,11 @@ Part 1 of this lab walks through building the complete osTicket server environme
   <img width="1103" height="560" alt="image" src="https://github.com/user-attachments/assets/695f8d94-290f-433e-85ee-ea3929470d79" />
 </p>
 
-<h4>Step 27. Lorem</h4>
+<h4>Step 27. Configure Departments: In the Admin Panel, navigate to Agents → Departments → Add New Department. Set the Parent department to Top-Level Department, then name the new department SysAdmins. Once completed, click Create Dept to add the department.</h4>
 
 <p>
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img width="792" height="936" alt="image" src="https://github.com/user-attachments/assets/e9396a88-d87f-4d64-ac2c-4a4b07835ac9" />
+  <img width="1107" height="498" alt="image" src="https://github.com/user-attachments/assets/6dddf9b9-2cf9-47f2-922e-1601c8f962cb" />
 </p>
 
 <h4>Step 28. Lorem</h4>
