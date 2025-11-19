@@ -232,6 +232,8 @@ Part 1 of this lab walks through building the complete osTicket server environme
 <p>
   <img width="1106" height="507" alt="image" src="https://github.com/user-attachments/assets/00f56e2d-00b2-4d9e-b6d9-1c4d9bb49534" />
   <img width="1104" height="823" alt="image" src="https://github.com/user-attachments/assets/e29ac729-7f5d-43a3-bd27-2a1c16a3b975" />
+  <img width="1018" height="673" alt="image" src="https://github.com/user-attachments/assets/15311d80-caf9-49db-a074-1e42c3fb4b9d" />
+  <img width="1013" height="527" alt="image" src="https://github.com/user-attachments/assets/ea755f09-44a3-4295-8d5c-01fbabd243df" />
 </p>
 
 <h4>Step 26. Create a new Role:  In the Admin Panel, go to Agents → Roles → Add New Role. Name the role “Supreme Admin”, then open the Permissions tab. Under Tickets, check every permission box to grant full ticket management capabilities. Next, click Tasks and check every box to enable full task-related permissions. Then click Knowledgebase and check its available permission as well. Once all permissions are selected, click "Add Role" to create the new Supreme Admin role.</h4>
