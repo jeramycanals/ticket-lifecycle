@@ -188,18 +188,26 @@ This lab demonstrates a complete, end-to-end implementation of the osTicket Help
   <img width="974" height="514" alt="image" src="https://github.com/user-attachments/assets/f81204f3-d820-42c4-868d-882e5e31e7d4" />
 </p>
 
-<h4>Step 21. Finish setting up osTicket in your web browser by entering the "MySQL Database" name (osTicket) that you just created.  When prompted for database credentials, use the same MySQL username and password (root) from Step 9, then click Install Now. On the next screen, you should see a "Congratulations!" message, confirming that the osTicket installation was successful. Note: At the bottom of this page, osTicket provides several useful URLs. The osTicket URL (http://localhost/osTicket/) is the end-user portal where customers submit and view tickets. The Staff Control Panel (http://localhost/osTicket/scp) is the administrative dashboard where help desk admins and agents manage and respond to tickets. The osTicket Forums (https://forum.osticket.com/) offer community support, troubleshooting discussions, and guidance from other users. Finally, the osTicket Documentation (https://docs.osticket.com/) provides official setup instructions, configuration details, and advanced administrative guidance. Some of these URLs will be used later in Parts 2 and 3 of the lab.</h4>
+<h4>Step 21. Finish setting up osTicket in your web browser by entering the "MySQL Database" name (osTicket) that you just created.  When prompted for database credentials, use the same MySQL username and password (root) from Step 9, then click Install Now. On the next screen, you should see a "Congratulations!" message, confirming that the osTicket installation was successful. Note: At the bottom of this page, osTicket provides several useful URLs. The osTicket URL (http://localhost/osTicket/) is the end-user portal where customers submit and view tickets. The Staff Control Panel (http://localhost/osTicket/scp) is the administrative dashboard where help desk admins and agents manage and respond to tickets. The osTicket Forums (https://forum.osticket.com/) offer community support, troubleshooting discussions, and guidance from other users. Finally, the osTicket Documentation (https://docs.osticket.com/) provides official setup instructions, configuration details, and advanced administrative guidance.</h4>
 
 <p>
   <img width="996" height="526" alt="image" src="https://github.com/user-attachments/assets/764de77a-4ab1-4b85-9084-77ad54639e09" />
   <img width="841" height="673" alt="image" src="https://github.com/user-attachments/assets/44ccddbf-d609-4d8c-ba14-049d1fa28a9e" />
 </p>
 
-<h4>Step 22. Clean Up the Installation: Delete the C:\inetpub\wwwroot\osTicket\setup folder, then set the permissions on C:\inetpub\wwwroot\osTicket\include\ost-config.php to Read only. Note: Make sure to complete this step to prevent warning messages when launching osTicket.</h4>
+<h4>Step 22. Lorem</h4>
+
+<p>
+  img
+</p>
+
+<h4>Step 23. Clean Up the Installation: Delete the C:\inetpub\wwwroot\osTicket\setup folder, then set the permissions on C:\inetpub\wwwroot\osTicket\include\ost-config.php to Read only. To do this, navigate to the file, right-click ost-config.php, select Properties, and at the bottom of the General tab, check the box labeled Read-only. Click Apply, then OK. Note: Make sure to complete this step to prevent warning messages when launching osTicket.</h4>
 
 <p>
   <img width="820" height="480" alt="image" src="https://github.com/user-attachments/assets/97f5d316-f559-45c8-b42d-bf0652c7d21a" />
   <img width="824" height="485" alt="image" src="https://github.com/user-attachments/assets/f9c04d89-0c3c-42cd-a99c-6d1f311c7ecf" />
+  <img width="829" height="489" alt="image" src="https://github.com/user-attachments/assets/5a74666a-b699-4c9a-b206-6a7554808939" />
+  <img width="819" height="898" alt="image" src="https://github.com/user-attachments/assets/3dd26e36-e9f9-402b-95c6-136ae7240f7a" />
 </p>
 
 <h4>Part 1 Summary</h4>
