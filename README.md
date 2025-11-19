@@ -40,7 +40,7 @@ This project demonstrates a complete, end-to-end implementation of the osTicket 
 
 <h3 id="part1">Part 1. Install and Configure osTicket (Server Setup)</h3>
 
-<h4>1. Create a Virtual Machine and a new Resource Group during deployment. Use the settings shown below and choose your own secure password. Click Next, and allow Azure to automatically create a new Virtual Network and Subnet.</h4>
+<h4>Step 1. Create a Virtual Machine and a new Resource Group during deployment. Use the settings shown below and choose your own secure password. Click Next, and allow Azure to automatically create a new Virtual Network and Subnet.</h4>
 
 <p>
   <img width="783" height="829" alt="image" src="https://github.com/user-attachments/assets/d75b0b32-0346-4c00-91bf-b98c377d3cd3" />
@@ -48,13 +48,13 @@ This project demonstrates a complete, end-to-end implementation of the osTicket 
   <img width="760" height="808" alt="image" src="https://github.com/user-attachments/assets/ce22ccef-5b24-43e0-bcc9-7309db37657e" />
 </p>
 
-<h4>2. Use Remote Desktop (RDP) to connect to your Virtual Machine. Enter the public IP address of the VM along with the username and password you created.</h4>
+<h4>Step 2. Use Remote Desktop (RDP) to connect to your Virtual Machine. Enter the public IP address of the VM along with the username and password you created.</h4>
 
 <p>
   <img width="620" height="388" alt="image" src="https://github.com/user-attachments/assets/b707bff0-503d-4dd4-8665-1504e152d90d" />
 </p>
 
-<h4>3. Inside the VM (osticket-vm), download the "osTicket-Installation-Files.zip" file using the following link: https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD and unzip it to the desktop. The extracted folder will be named "osTicket-Installation-Files", and you will use its contents to install osTicket and the required dependencies.</h4>
+<h4>Step 3. Inside the VM (osticket-vm), download the "osTicket-Installation-Files.zip" file using the following link: https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD and unzip it to the desktop. The extracted folder will be named "osTicket-Installation-Files", and you will use its contents to install osTicket and the required dependencies.</h4>
 
 <p>
   <img width="1137" height="201" alt="image" src="https://github.com/user-attachments/assets/fa3cc8a4-fd0a-4fd7-9f5e-53cd85789342" />
@@ -62,26 +62,26 @@ This project demonstrates a complete, end-to-end implementation of the osTicket 
   <img width="676" height="240" alt="image" src="https://github.com/user-attachments/assets/e158acfb-b18f-439d-b24c-54cc432250b6" />
 </p>
 
-<h4>4. Install Internet Information Services (IIS) and make sure CGI is enabled. To do this, open the Control Panel, select Uninstall a program, then click Turn Windows features on or off. Check the Internet Information Services box, then expand it and go to World Wide Web Services → Application Development Features and check the CGI box and click OK. To verify IIS is installed, open a web browser and go to 127.0.0.1; the default IIS webpage should load.</h4>
+<h4>Step 4. Install Internet Information Services (IIS) and make sure CGI is enabled. To do this, open the Control Panel, select Uninstall a program, then click Turn Windows features on or off. Check the Internet Information Services box, then expand it and go to World Wide Web Services → Application Development Features and check the CGI box and click OK. To verify IIS is installed, open a web browser and go to 127.0.0.1; the default IIS webpage should load.</h4>
 
 <p>
   <img width="625" height="773" alt="image" src="https://github.com/user-attachments/assets/83df2a72-140a-4be5-80f7-25630cf196f8" />
   <img width="923" height="717" alt="image" src="https://github.com/user-attachments/assets/2d5d715a-8abd-4fe3-9716-bf8bd3886782" />
 </p>
 
-<h4>5. From the "osTicket-Installation-Files" folder, run and install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi).</h4>
+<h4>Step 5. From the "osTicket-Installation-Files" folder, run and install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi).</h4>
 
 <p>
   <img width="805" height="726" alt="image" src="https://github.com/user-attachments/assets/14544eac-1feb-484b-b92b-819fd7994d6a" />
 </p>
 
-<h4>6. From the "osTicket-Installation-Files" folder, install the URL Rewrite Module (rewrite_amd64_en-US.msi).</h4>
+<h4>Step 6. From the "osTicket-Installation-Files" folder, install the URL Rewrite Module (rewrite_amd64_en-US.msi).</h4>
 
 <p>
   <img width="803" height="720" alt="image" src="https://github.com/user-attachments/assets/04d736c6-3381-45b3-b206-4d254311c147" />
 </p>
 
-<h4>7. Create the directory C:\PHP. Then, from the "osTicket-Installation-Files" folder, unzip PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) into the C:\PHP folder.</h4>
+<h4>Step 7. Create the directory C:\PHP. Then, from the "osTicket-Installation-Files" folder, unzip PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) into the C:\PHP folder.</h4>
 
 <p>
   <img width="805" height="381" alt="image" src="https://github.com/user-attachments/assets/1672bdd7-cec6-4fc0-94a9-040f4d698f07" />
@@ -89,41 +89,41 @@ This project demonstrates a complete, end-to-end implementation of the osTicket 
   <img width="835" height="936" alt="image" src="https://github.com/user-attachments/assets/ccddbc95-e925-40ae-95bc-c91377da298a" />
 </p>
 
-<h4>8. From the "osTicket-Installation-Files" folder, install VC_redist.x86.exe.</h4>
+<h4>Step 8. From the "osTicket-Installation-Files" folder, install VC_redist.x86.exe.</h4>
 
 <p>
   <img width="807" height="626" alt="image" src="https://github.com/user-attachments/assets/269dd25b-9dc1-47e3-9e5e-e2e4c532131a" />
 </p>
 
-<h4>9. From the "osTicket-Installation-Files" folder, install MySQL 5.5.62 (mysql-5.5.62-win32.msi). Choose Typical Setup, then launch the MySQL Instance Configuration Wizard after installation. Select Standard Configuration and create a MySQL username and password, and complete the MySQL Server installation.</h4>
+<h4>Step 9. From the "osTicket-Installation-Files" folder, install MySQL 5.5.62 (mysql-5.5.62-win32.msi). Choose Typical Setup, then launch the MySQL Instance Configuration Wizard after installation. Select Standard Configuration and create a MySQL username and password, and complete the MySQL Server installation.</h4>
 
 <p>
   <img width="811" height="692" alt="image" src="https://github.com/user-attachments/assets/f9c44b4f-281b-4a52-a88c-7d95d9eee55a" />
   <img width="802" height="685" alt="image" src="https://github.com/user-attachments/assets/4fb27a57-ccd3-4534-888a-58cd6fbe822e" />
 </p>
 
-<h4>10. Open Internet Information Services (IIS) Manager by typing “IIS” in the Windows search bar, right-clicking Internet Information Services (IIS) Manager, and selecting Run as administrator.</h4>
+<h4>Step 10. Open Internet Information Services (IIS) Manager by typing “IIS” in the Windows search bar, right-clicking Internet Information Services (IIS) Manager, and selecting Run as administrator.</h4>
 
 <p>
   <img width="827" height="677" alt="image" src="https://github.com/user-attachments/assets/1848e3af-e63a-4d60-ae25-08027b221215" />
   <img width="957" height="748" alt="image" src="https://github.com/user-attachments/assets/24e57107-a024-4956-b425-e4198ee2e6c1" />
 </p>
 
-<h4>11. In IIS, open PHP Manager, then click Register new PHP version. Browse to C:\PHP\php-cgi.exe, select it, and click OK to register PHP.</h4>
+<h4>Step 11. In IIS, open PHP Manager, then click Register new PHP version. Browse to C:\PHP\php-cgi.exe, select it, and click OK to register PHP.</h4>
 
 <p>
   <img width="951" height="611" alt="image" src="https://github.com/user-attachments/assets/293b7280-f025-479c-99fd-181483afa9d5" />
   <img width="951" height="751" alt="image" src="https://github.com/user-attachments/assets/fd4d58ed-1645-4530-ad42-cafffe5ff12b" />
 </p>
 
-<h4>12. Reload IIS (Open IIS as an administrator, then Stop and Start the server to reload IIS).</h4>
+<h4>Step 12. Reload IIS (Open IIS as an administrator, then Stop and Start the server to reload IIS).</h4>
 
 <p>
   <img width="795" height="624" alt="image" src="https://github.com/user-attachments/assets/926ab575-1cbc-4d39-b5eb-ae429dc85176" />
   <img width="797" height="624" alt="image" src="https://github.com/user-attachments/assets/dc700cd3-43fe-4070-ad6a-fef4675a7d16" />
 </p>
 
-<h4>13. Install osTicket v1.15.8: From the "osTicket-Installation-Files" folder, unzip "osTicket-v1.15.8.zip" and copy the "upload" folder into "C:\inetpub\wwwroot." Inside "C:\inetpub\wwwroot," rename the "upload" folder to "osTicket."</h4>
+<h4>Step 13. Install osTicket v1.15.8: From the "osTicket-Installation-Files" folder, unzip "osTicket-v1.15.8.zip" and copy the "upload" folder into "C:\inetpub\wwwroot." Inside "C:\inetpub\wwwroot," rename the "upload" folder to "osTicket."</h4>
 
 <p>
   <img width="806" height="765" alt="image" src="https://github.com/user-attachments/assets/61334dc4-0de1-4f55-9238-2d9db31ac847" />
@@ -131,21 +131,21 @@ This project demonstrates a complete, end-to-end implementation of the osTicket 
   <img width="811" height="203" alt="image" src="https://github.com/user-attachments/assets/a7ff81ef-437d-45d2-a940-9d0444354cc2" />
 </p>
 
-<h4>14. Reload IIS again (Open IIS as an administrator, then Stop and Start the server to reload IIS).</h4>
+<h4>Step 14. Reload IIS again (Open IIS as an administrator, then Stop and Start the server to reload IIS).</h4>
 
 <p>
   <img width="794" height="622" alt="image" src="https://github.com/user-attachments/assets/7ab2f75f-7ce3-48dc-b53b-b1eec5f347a3" />
   <img width="794" height="623" alt="image" src="https://github.com/user-attachments/assets/e60bd18f-988b-4066-977f-403d40784a7d" />
 </p>
 
-<h4>15. Open the osTicket Site in IIS: In IIS, navigate to Sites → Default Web Site → osTicket. On the right-hand panel, click “Browse *:80” to open the osTicket setup page in your browser.</h4>
+<h4>Step 15. Open the osTicket Site in IIS: In IIS, navigate to Sites → Default Web Site → osTicket. On the right-hand panel, click “Browse *:80” to open the osTicket setup page in your browser.</h4>
 
 <p>
   <img width="639" height="622" alt="image" src="https://github.com/user-attachments/assets/1431a486-fd01-4d16-86ed-5c103af8cb7e" />
   <img width="946" height="878" alt="image" src="https://github.com/user-attachments/assets/6b25d1ef-2bd8-4a01-80bf-5d35aff97902" />
 </p>
 
-<h4>16. Enable Required PHP Extensions: When opening the osTicket setup page, you will notice that several PHP extensions are not enabled. To fix this, go back to IIS → Sites → Default Web Site → osTicket, open PHP Manager, and click “Enable or disable an extension.” Enable php_imap.dll, php_intl.dll, and php_opcache.dll, then refresh the osTicket page in your browser to see the changes.</h4>
+<h4>Step 16. Enable Required PHP Extensions: When opening the osTicket setup page, you will notice that several PHP extensions are not enabled. To fix this, go back to IIS → Sites → Default Web Site → osTicket, open PHP Manager, and click “Enable or disable an extension.” Enable php_imap.dll, php_intl.dll, and php_opcache.dll, then refresh the osTicket page in your browser to see the changes.</h4>
 
 <p>
   <img width="762" height="743" alt="image" src="https://github.com/user-attachments/assets/1c043fbf-f610-43b1-ac98-482899eb25c4" />
@@ -153,14 +153,14 @@ This project demonstrates a complete, end-to-end implementation of the osTicket 
   <img width="947" height="885" alt="image" src="https://github.com/user-attachments/assets/3a85f950-cbbe-4e58-a69e-b861a8ebc437" />
 </p>
 
-<h4>17. Rename the osTicket Configuration File: Navigate to C:\inetpub\wwwroot\osTicket\include and rename ost-sampleconfig.php to ost-config.php.</h4>
+<h4>Step 17. Rename the osTicket Configuration File: Navigate to C:\inetpub\wwwroot\osTicket\include and rename ost-sampleconfig.php to ost-config.php.</h4>
 
 <p>
   <img width="819" height="249" alt="image" src="https://github.com/user-attachments/assets/48667cae-377a-4987-95f1-b0ced3863b60" />
   <img width="823" height="248" alt="image" src="https://github.com/user-attachments/assets/d3f1b7b0-fed3-4871-9358-ca5603676164" />
 </p>
 
-<h4>18. Assign Permissions to ost-config.php: Right-click "ost-config.php" and select "Properties," then go to Security → Advanced. Click "Disable inheritance," choose "Remove all inherited permissions from this object." Next, add a new permission entry for Everyone with Full Control by clicking Add → Select a principal, entering "everyone" in the object name field, clicking "Check Names," then clicking OK. In Basic permissions, check Full control, click OK, then click Apply and OK to save the changes.</h4>
+<h4>Step 18. Assign Permissions to ost-config.php: Right-click "ost-config.php" and select "Properties," then go to Security → Advanced. Click "Disable inheritance," choose "Remove all inherited permissions from this object." Next, add a new permission entry for Everyone with Full Control by clicking Add → Select a principal, entering "everyone" in the object name field, clicking "Check Names," then clicking OK. In Basic permissions, check Full control, click OK, then click Apply and OK to save the changes.</h4>
 
 <p>
   <img width="1042" height="620" alt="image" src="https://github.com/user-attachments/assets/8945a913-2c93-43a9-a238-f4491323c1c3" />
@@ -170,10 +170,12 @@ This project demonstrates a complete, end-to-end implementation of the osTicket 
   <img width="918" height="626" alt="image" src="https://github.com/user-attachments/assets/12c71717-2cad-40e5-91ad-1cbfaf6db683" />
 </p>
 
-<h4>19. Continue setting up osTicket in the browser</h4>
+<h4>Step 19. Continue setting up osTicket in your web browser by filling out the Basic Installation settings with your information. When prompted for database credentials, use the same MySQL username and password you created in Step 9, then click Install Now.</h4>
 
 <p>
   <img width="676" height="624" alt="image" src="https://github.com/user-attachments/assets/d5f6c1b9-a0fb-4070-8bce-29b9d482026d" />
+  <img width="842" height="809" alt="image" src="https://github.com/user-attachments/assets/2a8be4d1-9ba7-4307-9398-ca1d6eddc5ba" />
+  <img width="832" height="499" alt="image" src="https://github.com/user-attachments/assets/16dca22e-9bc7-45c1-9095-b8a296170e77" />
 </p>
 
 <h4>Part 1 Summary</h4>
