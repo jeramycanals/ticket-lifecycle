@@ -185,7 +185,7 @@ This lab demonstrates a complete, end-to-end implementation of the osTicket Help
   <img width="711" height="493" alt="image" src="https://github.com/user-attachments/assets/587cc1b8-1584-43b7-b68b-5989df44da2a" />
   <img width="703" height="498" alt="image" src="https://github.com/user-attachments/assets/42ef6ce2-a69e-46ba-a386-43323091c673" />
   <img width="994" height="533" alt="image" src="https://github.com/user-attachments/assets/ae5d5c77-f1af-42df-bb9e-5101eb18dad4" />
-
+  <img width="974" height="514" alt="image" src="https://github.com/user-attachments/assets/f81204f3-d820-42c4-868d-882e5e31e7d4" />
 </p>
 
 <h4>Part 1 Summary</h4>
