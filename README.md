@@ -30,13 +30,13 @@ This project demonstrates a complete, end-to-end implementation of the osTicket 
 
 - Windows 10 (22H2)
 
-<h2>High-Level Steps</h2>
+<h2>High-Level Parts</h2>
 
-- Step 1. Install and Configure osTicket (Server Setup)
-- Step 2. Post-Installation Configuration (Help Desk Setup)
-- Step 3. Ticket Creation & Ticket Lifecycle Management
+- Part 1. Install and Configure osTicket (Server Setup)
+- Part 2. Post-Installation Configuration (Help Desk Setup)
+- Part 3. Ticket Creation & Ticket Lifecycle Management
 
-<h3>Step 1. Install and Configure osTicket (Server Setup)</h3>
+<h3>Part 1. Install and Configure osTicket (Server Setup)</h3>
 
 <h4>1. Create a Virtual Machine and a new Resource Group during deployment. Use the settings shown below and choose your own secure password. Click Next, and allow Azure to automatically create a new Virtual Network and Subnet.</h4>
 
@@ -168,19 +168,19 @@ This project demonstrates a complete, end-to-end implementation of the osTicket 
   <img width="918" height="626" alt="image" src="https://github.com/user-attachments/assets/12c71717-2cad-40e5-91ad-1cbfaf6db683" />
 </p>
 
-<h4>19. Lorem</h4>
+<h4>19. Continue setting up osTicket in the browser</h4>
 
 <p>
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img width="676" height="624" alt="image" src="https://github.com/user-attachments/assets/d5f6c1b9-a0fb-4070-8bce-29b9d482026d" />
 </p>
 
-<h4>Step 1 Summary</h4>
+<h4>Part 1 Summary</h4>
 
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 
-<h3>Step 2. Post-Installation Configuration (Help Desk Setup)</h3>
+<h3>Part 2. Post-Installation Configuration (Help Desk Setup)</h3>
 
 <h4>1. Lorem</h4>
 
@@ -188,13 +188,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
-<h4>Step 2 Summary</h4>
+<h4>Part 2 Summary</h4>
 
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 
-<h3>Step 3. Ticket Creation & Ticket Lifecycle Management</h3>
+<h3>Part 3. Ticket Creation & Ticket Lifecycle Management</h3>
 
 <h4>1. Lorem</h4>
 
@@ -202,7 +202,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
-<h4>Step 3 Summary</h4>
+<h4>Part 3 Summary</h4>
 
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
