@@ -170,15 +170,15 @@ This lab demonstrates a complete, end-to-end implementation of the osTicket Help
   <img width="918" height="626" alt="image" src="https://github.com/user-attachments/assets/12c71717-2cad-40e5-91ad-1cbfaf6db683" />
 </p>
 
-<h4>Step 19. Continue setting up osTicket in your web browser by filling out the Basic Installation settings with your information. When prompted for database credentials, use the same MySQL username and password (root) you created in Step 9. Note: Don't click Install Now until completing Step 20.</h4>
+<h4>Step 19. Click "Continue" to proceed with the osTicket setup in your web browser, and fill out only the "System Settings" and "Admin User" sections with your information. Note: Don't click "Install Now" until you complete Step 21.</h4>
 
 <p>
   <img width="676" height="624" alt="image" src="https://github.com/user-attachments/assets/d5f6c1b9-a0fb-4070-8bce-29b9d482026d" />
   <img width="842" height="809" alt="image" src="https://github.com/user-attachments/assets/2a8be4d1-9ba7-4307-9398-ca1d6eddc5ba" />
-  <img width="832" height="499" alt="image" src="https://github.com/user-attachments/assets/16dca22e-9bc7-45c1-9095-b8a296170e77" />
+  <img width="844" height="487" alt="image" src="https://github.com/user-attachments/assets/ebc9db20-0dd7-494e-a817-8b313e565dd0" />
 </p>
 
-<h4>Step 20. From the osTicket-Installation-Files folder, install HeidiSQL, then launch HeidiSQL, and click Skip to continue. Click "New" to create a new session, use root for both the username and password, and click Open to connect to the session. In the left panel, right-click Unnamed → Create new → Database, and name the database osTicket, and click OK.</h4>
+<h4>Step 20. From the osTicket-Installation-Files folder, install HeidiSQL, then launch HeidiSQL, and click "Skip" to continue. Click "New" to create a new session, use "root" for both the username and password, and click "Open" to connect to the session. In the left panel, right-click Unnamed → Create new → Database, and name the database osTicket, and click OK.</h4>
 
 <p>
   <img width="944" height="790" alt="image" src="https://github.com/user-attachments/assets/a967c873-74b9-4a1d-b53c-69a210655075" />
@@ -186,6 +186,12 @@ This lab demonstrates a complete, end-to-end implementation of the osTicket Help
   <img width="703" height="498" alt="image" src="https://github.com/user-attachments/assets/42ef6ce2-a69e-46ba-a386-43323091c673" />
   <img width="994" height="533" alt="image" src="https://github.com/user-attachments/assets/ae5d5c77-f1af-42df-bb9e-5101eb18dad4" />
   <img width="974" height="514" alt="image" src="https://github.com/user-attachments/assets/f81204f3-d820-42c4-868d-882e5e31e7d4" />
+</p>
+
+<h4>Step 21. Finish setting up osTicket in your web browser by entering the "MySQL Database" name (osTicket) you just created.  When prompted for database credentials, use the same MySQL username and password (root) you created in Step 9.</h4>
+
+<p>
+  img
 </p>
 
 <h4>Part 1 Summary</h4>
