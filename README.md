@@ -227,17 +227,21 @@ Part 1 of this lab walks through building the complete osTicket server environme
   <img width="1157" height="732" alt="image" src="https://github.com/user-attachments/assets/863b52ed-313d-4e22-a15e-da1d47f41914" />
 </p>
 
-<h4>Step 25. Configure Roles (for grouping permissions): In the Admin Panel, go to Agents → Roles (make sure you clicked the “Agents” button near the top-right corner). The Roles page displays all permission groups that determine what agents are allowed to do within osTicket. Here you will see options to create new roles or edit existing ones, and each role can be assigned specific permissions such as viewing tickets, editing tickets, managing users, or accessing advanced administrative functions. This is where you define permission sets that agents can inherit based on their responsibilities. Clicking Expanded Access → Permissions to view the specific permissions assigned to the default Expanded Access role.</h4>
+<h4>Step 25. Roles Overview: In the Admin Panel, go to Agents → Roles (make sure you clicked the “Agents” button near the top-right corner). The Roles page displays all permission groups that determine what agents are allowed to do within osTicket. Here you will see options to create new roles or edit existing ones, and each role can be assigned specific permissions such as viewing tickets, editing tickets, managing users, or accessing advanced administrative functions. This is where you define permission sets that agents can inherit based on their responsibilities. Click Expanded Access → Permissions to view the specific permissions assigned to the default Expanded Access role.</h4>
 
 <p>
   <img width="1106" height="507" alt="image" src="https://github.com/user-attachments/assets/00f56e2d-00b2-4d9e-b6d9-1c4d9bb49534" />
   <img width="1104" height="823" alt="image" src="https://github.com/user-attachments/assets/e29ac729-7f5d-43a3-bd27-2a1c16a3b975" />
 </p>
 
-<h4>Step 26. Lorem</h4>
+<h4>Step 26. Create a new Role:  In the Admin Panel, go to Agents → Roles → Add New Role. Name the role “Supreme Admin”, then open the Permissions tab. Under Tickets, check every permission box to grant full ticket management capabilities. Next, click Tasks and check every box to enable full task-related permissions. Then click Knowledgebase and check its available permission as well. Once all permissions are selected, click Add Role to create the new Supreme Admin role.</h4>
 
 <p>
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img width="1109" height="687" alt="image" src="https://github.com/user-attachments/assets/a74ef049-7096-4673-82b1-a8ed95fbe6fa" />
+  <img width="1097" height="841" alt="image" src="https://github.com/user-attachments/assets/6a9a30d7-25a6-484a-ac85-972788f22937" />
+  <img width="1098" height="674" alt="image" src="https://github.com/user-attachments/assets/92fc3547-8c64-4b79-8a3d-965bfbce54cf" />
+  <img width="1100" height="525" alt="image" src="https://github.com/user-attachments/assets/019e359c-3a38-417c-8360-94f9312a9c46" />
+  <img width="1103" height="560" alt="image" src="https://github.com/user-attachments/assets/695f8d94-290f-433e-85ee-ea3929470d79" />
 </p>
 
 <h4>Step 27. Lorem</h4>
