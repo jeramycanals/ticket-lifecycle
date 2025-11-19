@@ -215,12 +215,78 @@ This lab demonstrates a complete, end-to-end implementation of the osTicket Help
 <h4>Part 1 Summary</h4>
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Part 1 of this lab walks through building the complete osTicket server environment from the ground up, beginning with the creation of a new Resource Group, Virtual Network, and Subnet in Microsoft Azure while deploying a Windows 10 virtual machine. After connecting to the VM via Remote Desktop, we download the osTicket installation bundle and configure the web server environment by installing Internet Information Services (IIS) with CGI support, PHP Manager for IIS, and the IIS URL Rewrite Module 2. Next, we create the C:\PHP directory and extract PHP 7.3.8 into this folder, followed by installing the Microsoft Visual C++ Redistributable and MySQL 5.5.62. We then register PHP within IIS using PHP Manager and verify IIS functionality before deploying the osTicket application by copying the upload folder into C:\inetpub\wwwroot and renaming it to osTicket. After that, we enable essential PHP extensions, rename ost-sampleconfig.php to ost-config.php, and assign the required file permissions. Using HeidiSQL, we create the osTicket MySQL database and complete the web-based installer, confirming success with the “Congratulations!” page. Finally, we verify access to both the Staff Control Panel and End-User Portal, then clean up by deleting the setup folder and setting ost-config.php to read-only. By the end of Part 1, the full backend infrastructure for osTicket is deployed, secured, and fully operational, ready for setup and customization in Part 2.
 </p>
 
 <h3 id="part2">Part 2. Post-Installation Configuration (Help Desk Setup)</h3>
 
-<h4>1. Lorem</h4>
+<h4>Step 24. Lorem</h4>
+
+<p>
+  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<h4>Step 25. Lorem</h4>
+
+<p>
+  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<h4>Step 26. Lorem</h4>
+
+<p>
+  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<h4>Step 27. Lorem</h4>
+
+<p>
+  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<h4>Step 28. Lorem</h4>
+
+<p>
+  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<h4>Step 29. Lorem</h4>
+
+<p>
+  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<h4>Step 30. Lorem</h4>
+
+<p>
+  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<h4>Step 31. Lorem</h4>
+
+<p>
+  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<h4>Step 32. Lorem</h4>
+
+<p>
+  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<h4>Step 33. Lorem</h4>
+
+<p>
+  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<h4>Step 34. Lorem</h4>
+
+<p>
+  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<h4>Step 35. Lorem</h4>
 
 <p>
   <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
