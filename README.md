@@ -195,7 +195,7 @@ This lab demonstrates a complete, end-to-end implementation of the osTicket Help
   <img width="841" height="673" alt="image" src="https://github.com/user-attachments/assets/44ccddbf-d609-4d8c-ba14-049d1fa28a9e" />
 </p>
 
-<h4>Step 22. Lorem</h4>
+<h4>Step 22. Log In as an Admin and view the End-User Portal: Log in to the Staff Control Panel (http://localhost/osTicket/scp) using the Admin User credentials you created earlier to access the administrative dashboard where help desk agents manage and respond to tickets. Then, open the End-User Portal (http://localhost/osTicket/) to view the interface where end-users submit and track support tickets. Verifying access to both interfaces ensures that the osTicket installation is functioning correctly for administrators and end-users.</h4>
 
 <p>
   img
