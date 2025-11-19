@@ -32,11 +32,13 @@ This project demonstrates a complete, end-to-end implementation of the osTicket 
 
 <h2>High-Level Parts</h2>
 
-- Part 1. Install and Configure osTicket (Server Setup)
-- Part 2. Post-Installation Configuration (Help Desk Setup)
-- Part 3. Ticket Creation & Ticket Lifecycle Management
+<ul>
+  <li><a href="#part1">Part 1. Install and Configure osTicket (Server Setup)</a></li>
+  <li><a href="#part2">Part 2. Post-Installation Configuration (Help Desk Setup)</a></li>
+  <li><a href="#part3">Part 3. Ticket Creation & Ticket Lifecycle Management</a></li>
+</ul>
 
-<h3>Part 1. Install and Configure osTicket (Server Setup)</h3>
+<h3 id="part1">Part 1. Install and Configure osTicket (Server Setup)</h3>
 
 <h4>1. Create a Virtual Machine and a new Resource Group during deployment. Use the settings shown below and choose your own secure password. Click Next, and allow Azure to automatically create a new Virtual Network and Subnet.</h4>
 
@@ -180,7 +182,7 @@ This project demonstrates a complete, end-to-end implementation of the osTicket 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 
-<h3>Part 2. Post-Installation Configuration (Help Desk Setup)</h3>
+<h3 id="part2">Part 2. Post-Installation Configuration (Help Desk Setup)</h3>
 
 <h4>1. Lorem</h4>
 
@@ -194,7 +196,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 
-<h3>Part 3. Ticket Creation & Ticket Lifecycle Management</h3>
+<h3 id="part3">Ticket Creation & Ticket Lifecycle Management</h3>
 
 <h4>1. Lorem</h4>
 
