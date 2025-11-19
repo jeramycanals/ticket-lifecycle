@@ -227,10 +227,11 @@ Part 1 of this lab walks through building the complete osTicket server environme
   <img width="1157" height="732" alt="image" src="https://github.com/user-attachments/assets/863b52ed-313d-4e22-a15e-da1d47f41914" />
 </p>
 
-<h4>Step 25. Configure Roles (for grouping permissions): In the Admin Panel, go to Agents → Roles (make sure you clicked the “Agents” button near the top-right corner). The Roles page displays all permission groups that determine what agents are allowed to do within osTicket. Here you will see options to create new roles or edit existing ones, and each role can be assigned specific permissions such as viewing tickets, editing tickets, managing users, or accessing advanced administrative functions. This is where you define permission sets that agents can inherit based on their responsibilities.</h4>
+<h4>Step 25. Configure Roles (for grouping permissions): In the Admin Panel, go to Agents → Roles (make sure you clicked the “Agents” button near the top-right corner). The Roles page displays all permission groups that determine what agents are allowed to do within osTicket. Here you will see options to create new roles or edit existing ones, and each role can be assigned specific permissions such as viewing tickets, editing tickets, managing users, or accessing advanced administrative functions. This is where you define permission sets that agents can inherit based on their responsibilities. Clicking Expanded Access → Permissions to view the specific permissions assigned to the default Expanded Access role.</h4>
 
 <p>
   <img width="1106" height="507" alt="image" src="https://github.com/user-attachments/assets/00f56e2d-00b2-4d9e-b6d9-1c4d9bb49534" />
+  <img width="1104" height="823" alt="image" src="https://github.com/user-attachments/assets/e29ac729-7f5d-43a3-bd27-2a1c16a3b975" />
 </p>
 
 <h4>Step 26. Lorem</h4>
