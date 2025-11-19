@@ -253,10 +253,13 @@ Part 1 of this lab walks through building the complete osTicket server environme
   <img width="1107" height="498" alt="image" src="https://github.com/user-attachments/assets/6dddf9b9-2cf9-47f2-922e-1601c8f962cb" />
 </p>
 
-<h4>Step 28. Lorem</h4>
+<h4>Step 28. Configure Teams: In the Admin Panel, navigate to Agents → Teams → Add New Team. Teams allow you to group agents from different departments. Name the team “Online Banking”, then click "Create Team" to add it.</h4>
 
 <p>
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img width="1013" height="421" alt="image" src="https://github.com/user-attachments/assets/32ab8861-d3d9-412c-a632-c681d8f2c20d" />
+  <img width="826" height="638" alt="image" src="https://github.com/user-attachments/assets/9f3e4c9b-73c7-47bd-9858-152535064cfd" />
+  <img width="1019" height="823" alt="image" src="https://github.com/user-attachments/assets/8566b416-bd65-4e09-833d-aaca1b91a091" />
+  <img width="1015" height="456" alt="image" src="https://github.com/user-attachments/assets/a3fd2bcd-8104-42b7-aacd-7918a08bec13" />
 </p>
 
 <h4>Step 29. Lorem</h4>
