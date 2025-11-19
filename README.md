@@ -220,10 +220,11 @@ Part 1 of this lab walks through building the complete osTicket server environme
 
 <h3 id="part2">Part 2. Post-Installation Configuration (Help Desk Setup)</h3>
 
-<h4>Step 24. Lorem</h4>
+<h4>Step 24. Acknowledge Agent Panel vs Admin Panel: Log in to the Staff Control Panel at http://localhost/osTicket/scp/login.php using your admin credentials. After signing in, you will initially land in the Agent Panel, where help desk agents manage and respond to tickets. To switch to full administrative privileges, click “Admin Panel” in the top-right corner. This opens the Admin Panel, where administrators configure roles, departments, teams, SLAs, help topics, and system-wide settings.</h4>
 
 <p>
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img width="1314" height="620" alt="image" src="https://github.com/user-attachments/assets/97adfdbe-ebcd-4ca9-91fa-9495dc914cba" />
+  <img width="1157" height="732" alt="image" src="https://github.com/user-attachments/assets/863b52ed-313d-4e22-a15e-da1d47f41914" />
 </p>
 
 <h4>Step 25. Lorem</h4>
