@@ -188,10 +188,11 @@ This lab demonstrates a complete, end-to-end implementation of the osTicket Help
   <img width="974" height="514" alt="image" src="https://github.com/user-attachments/assets/f81204f3-d820-42c4-868d-882e5e31e7d4" />
 </p>
 
-<h4>Step 21. Finish setting up osTicket in your web browser by entering the "MySQL Database" name (osTicket) that you just created.  When prompted for database credentials, use the same MySQL username and password (root) from Step 9, then click Install Now.</h4>
+<h4>Step 21. Finish setting up osTicket in your web browser by entering the "MySQL Database" name (osTicket) that you just created.  When prompted for database credentials, use the same MySQL username and password (root) from Step 9, then click Install Now. On the next screen, you should see a "Congratulations!" message, confirming that the osTicket installation was successful.</h4>
 
 <p>
   <img width="996" height="526" alt="image" src="https://github.com/user-attachments/assets/764de77a-4ab1-4b85-9084-77ad54639e09" />
+  <img width="841" height="673" alt="image" src="https://github.com/user-attachments/assets/44ccddbf-d609-4d8c-ba14-049d1fa28a9e" />
 </p>
 
 <h4>Part 1 Summary</h4>
