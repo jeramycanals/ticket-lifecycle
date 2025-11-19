@@ -95,7 +95,7 @@ This lab demonstrates a complete, end-to-end implementation of the osTicket Help
   <img width="807" height="626" alt="image" src="https://github.com/user-attachments/assets/269dd25b-9dc1-47e3-9e5e-e2e4c532131a" />
 </p>
 
-<h4>Step 9. From the "osTicket-Installation-Files" folder, install MySQL 5.5.62 (mysql-5.5.62-win32.msi). Choose Typical Setup, then launch the MySQL Instance Configuration Wizard after installation. Select Standard Configuration and create a MySQL username and password (use root for both for lab simplicity), and complete the MySQL Server installation.</h4>
+<h4>Step 9. From the "osTicket-Installation-Files" folder, install MySQL 5.5.62 (mysql-5.5.62-win32.msi). Choose Typical Setup, then launch the MySQL Instance Configuration Wizard after installation. Select Standard Configuration and create a MySQL username and password (use "root" for both for lab simplicity), and complete the MySQL Server installation.</h4>
 
 <p>
   <img width="811" height="692" alt="image" src="https://github.com/user-attachments/assets/f9c44b4f-281b-4a52-a88c-7d95d9eee55a" />
@@ -188,10 +188,10 @@ This lab demonstrates a complete, end-to-end implementation of the osTicket Help
   <img width="974" height="514" alt="image" src="https://github.com/user-attachments/assets/f81204f3-d820-42c4-868d-882e5e31e7d4" />
 </p>
 
-<h4>Step 21. Finish setting up osTicket in your web browser by entering the "MySQL Database" name (osTicket) you just created.  When prompted for database credentials, use the same MySQL username and password (root) you created in Step 9.</h4>
+<h4>Step 21. Finish setting up osTicket in your web browser by entering the "MySQL Database" name (osTicket) that you just created.  When prompted for database credentials, use the same MySQL username and password (root) from Step 9, then click Install Now.</h4>
 
 <p>
-  img
+  <img width="996" height="526" alt="image" src="https://github.com/user-attachments/assets/764de77a-4ab1-4b85-9084-77ad54639e09" />
 </p>
 
 <h4>Part 1 Summary</h4>
