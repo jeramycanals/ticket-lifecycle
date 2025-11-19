@@ -95,7 +95,7 @@ This project demonstrates a complete, end-to-end implementation of the osTicket 
   <img width="807" height="626" alt="image" src="https://github.com/user-attachments/assets/269dd25b-9dc1-47e3-9e5e-e2e4c532131a" />
 </p>
 
-<h4>Step 9. From the "osTicket-Installation-Files" folder, install MySQL 5.5.62 (mysql-5.5.62-win32.msi). Choose Typical Setup, then launch the MySQL Instance Configuration Wizard after installation. Select Standard Configuration and create a MySQL username and password, and complete the MySQL Server installation.</h4>
+<h4>Step 9. From the "osTicket-Installation-Files" folder, install MySQL 5.5.62 (mysql-5.5.62-win32.msi). Choose Typical Setup, then launch the MySQL Instance Configuration Wizard after installation. Select Standard Configuration and create a MySQL username and password (use root for both for lab simplicity), and complete the MySQL Server installation.</h4>
 
 <p>
   <img width="811" height="692" alt="image" src="https://github.com/user-attachments/assets/f9c44b4f-281b-4a52-a88c-7d95d9eee55a" />
@@ -123,7 +123,7 @@ This project demonstrates a complete, end-to-end implementation of the osTicket 
   <img width="797" height="624" alt="image" src="https://github.com/user-attachments/assets/dc700cd3-43fe-4070-ad6a-fef4675a7d16" />
 </p>
 
-<h4>Step 13. Install osTicket v1.15.8: From the "osTicket-Installation-Files" folder, unzip "osTicket-v1.15.8.zip" and copy the "upload" folder into "C:\inetpub\wwwroot." Inside "C:\inetpub\wwwroot," rename the "upload" folder to "osTicket."</h4>
+<h4>Step 13. Install osTicket v1.15.8: From the "osTicket-Installation-Files" folder, unzip "osTicket-v1.15.8.zip" and copy the "upload" folder into "C:\inetpub\wwwroot." Inside "C:\inetpub\wwwroot," rename the "upload" folder to osTicket.</h4>
 
 <p>
   <img width="806" height="765" alt="image" src="https://github.com/user-attachments/assets/61334dc4-0de1-4f55-9238-2d9db31ac847" />
@@ -170,12 +170,22 @@ This project demonstrates a complete, end-to-end implementation of the osTicket 
   <img width="918" height="626" alt="image" src="https://github.com/user-attachments/assets/12c71717-2cad-40e5-91ad-1cbfaf6db683" />
 </p>
 
-<h4>Step 19. Continue setting up osTicket in your web browser by filling out the Basic Installation settings with your information. When prompted for database credentials, use the same MySQL username and password you created in Step 9, then click Install Now.</h4>
+<h4>Step 19. Continue setting up osTicket in your web browser by filling out the Basic Installation settings with your information. When prompted for database credentials, use the same MySQL username and password (root) you created in Step 9. Note: Don't click Install Now until completing Step 20.</h4>
 
 <p>
   <img width="676" height="624" alt="image" src="https://github.com/user-attachments/assets/d5f6c1b9-a0fb-4070-8bce-29b9d482026d" />
   <img width="842" height="809" alt="image" src="https://github.com/user-attachments/assets/2a8be4d1-9ba7-4307-9398-ca1d6eddc5ba" />
   <img width="832" height="499" alt="image" src="https://github.com/user-attachments/assets/16dca22e-9bc7-45c1-9095-b8a296170e77" />
+</p>
+
+<h4>Step 20. From the osTicket-Installation-Files folder, install HeidiSQL, then launch HeidiSQL, and click Skip to continue. Click "New" to create a new session, use root for both the username and password, and click Open to connect to the session. In the left panel, right-click Unnamed → Create new → Database, and name the database osTicket, and click OK.</h4>
+
+<p>
+  <img width="944" height="790" alt="image" src="https://github.com/user-attachments/assets/a967c873-74b9-4a1d-b53c-69a210655075" />
+  <img width="711" height="493" alt="image" src="https://github.com/user-attachments/assets/587cc1b8-1584-43b7-b68b-5989df44da2a" />
+  <img width="703" height="498" alt="image" src="https://github.com/user-attachments/assets/42ef6ce2-a69e-46ba-a386-43323091c673" />
+  <img width="994" height="533" alt="image" src="https://github.com/user-attachments/assets/ae5d5c77-f1af-42df-bb9e-5101eb18dad4" />
+
 </p>
 
 <h4>Part 1 Summary</h4>
