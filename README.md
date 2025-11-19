@@ -195,10 +195,12 @@ This lab demonstrates a complete, end-to-end implementation of the osTicket Help
   <img width="841" height="673" alt="image" src="https://github.com/user-attachments/assets/44ccddbf-d609-4d8c-ba14-049d1fa28a9e" />
 </p>
 
-<h4>Step 22. Log In as an Admin and view the End-User Portal: Log in to the Staff Control Panel (http://localhost/osTicket/scp) using the Admin User credentials you created earlier to access the administrative dashboard where help desk agents manage and respond to tickets. Then, open the End-User Portal (http://localhost/osTicket/) to view the interface where end-users submit and track support tickets. Verifying access to both interfaces ensures that the osTicket installation is functioning correctly for administrators and end-users.</h4>
+<h4>Step 22. Log In as an Admin and view the End-User Portal: Log in to the Staff Control Panel (http://localhost/osTicket/scp/login.php) using the Admin User credentials you created earlier to access the administrative dashboard, where help desk agents manage and respond to tickets. Then, open the End-User Portal (http://localhost/osTicket/) to view the interface where end-users submit and track support tickets. Verifying access to both interfaces ensures that the osTicket installation is functioning correctly for administrators and end-users. We will use these URLs in Parts 2 and 3 of the lab.</h4>
 
 <p>
-  img
+  <img width="675" height="607" alt="image" src="https://github.com/user-attachments/assets/ebab4a3e-b5fb-4b11-802d-90caf0918142" />
+  <img width="1001" height="458" alt="image" src="https://github.com/user-attachments/assets/d0a6b8b6-8292-4869-b4bb-26e8cac1cd7b" />
+  <img width="1003" height="629" alt="image" src="https://github.com/user-attachments/assets/aad6b2b0-a3aa-4ddd-a362-42e3044a02d3" />
 </p>
 
 <h4>Step 23. Clean Up the Installation: Delete the C:\inetpub\wwwroot\osTicket\setup folder, then set the permissions on C:\inetpub\wwwroot\osTicket\include\ost-config.php to Read only. To do this, navigate to the file, right-click ost-config.php, select Properties, and at the bottom of the General tab, check the box labeled Read-only. Click Apply, then OK. Note: Make sure to complete this step to prevent warning messages when launching osTicket.</h4>
