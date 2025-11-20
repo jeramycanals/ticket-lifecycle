@@ -312,19 +312,14 @@ Part 1 of this lab walks through building the complete osTicket server environme
 <p>
   <img width="953" height="533" alt="image" src="https://github.com/user-attachments/assets/ec890d75-cc00-490d-a3ac-f9775bef26f5" />
   <img width="956" height="744" alt="image" src="https://github.com/user-attachments/assets/295eda5a-35e0-4b98-a1c8-4b8c62a18ddd" />
-  <img width="957" height="777" alt="image" src="https://github.com/user-attachments/assets/a13d69fa-1e87-491b-a628-96355e2ec6e8" />
   <img width="945" height="593" alt="image" src="https://github.com/user-attachments/assets/40e9fc80-f615-4301-97c5-d38419dd5b92" />
   <img width="813" height="635" alt="image" src="https://github.com/user-attachments/assets/9b73cdda-ca4b-498b-a541-9db033eb2cae" />
-  <img width="952" height="778" alt="image" src="https://github.com/user-attachments/assets/0800b308-3f01-4ab0-95ba-a0bc49cb0579" />
   <img width="950" height="652" alt="image" src="https://github.com/user-attachments/assets/17f37c6b-e318-4b95-8eea-37d71ea1c5df" />
   <img width="953" height="740" alt="image" src="https://github.com/user-attachments/assets/af5222b2-01d2-45f1-8683-b1fe6538ef27" />
-  <img width="948" height="781" alt="image" src="https://github.com/user-attachments/assets/c938f012-2918-40b8-a8b6-e299533fb366" />
   <img width="952" height="710" alt="image" src="https://github.com/user-attachments/assets/2c12443d-7f6b-4f81-b859-e2a26a6d0fd9" />
   <img width="957" height="748" alt="image" src="https://github.com/user-attachments/assets/ab8886f2-33ce-4fc8-91d7-846683dfac5a" />
-  <img width="953" height="784" alt="image" src="https://github.com/user-attachments/assets/587f3314-1dc3-4d6e-a66f-5796de1ef0f8" />
   <img width="952" height="729" alt="image" src="https://github.com/user-attachments/assets/004d4223-3eae-436b-abf3-de5c6ff9ec4a" />
   <img width="958" height="741" alt="image" src="https://github.com/user-attachments/assets/0b03d6f7-6d09-4109-9fc9-c50391aaa4af" />
-  <img width="954" height="782" alt="image" src="https://github.com/user-attachments/assets/4718a012-aae1-44c4-be60-4e94f198634e" />
   <img width="951" height="770" alt="image" src="https://github.com/user-attachments/assets/953d5fda-5712-4af3-bfd4-97b3d4e4082b" />
 </p>
 
