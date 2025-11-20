@@ -341,10 +341,12 @@ In Part 2, we configured the core administrative structure that powers the osTic
 
 
 
-<h4>Step 35. Lorem</h4>
+<h4>Step 35. Creating a Ticket as an End-User: Go to the End-User Portal URL (http://localhost/osTicket) and click "Open a New Ticket". Using the customer account you created earlier, fill out the form as Karen Doe. Enter her Email Address, Full Name, and Phone Number. For the Help Topic, select "Report a Problem". In the Issue Summary, enter "entire mobile/online banking system is down". In the details box, type the following description: "My employees are reporting that users are no longer able to access the online banking portal. The ones who can occasionally access it cannot log in." Once all fields are completed, click "Create Ticket" to submit the issue.</h4>
 
 <p>
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img width="957" height="625" alt="image" src="https://github.com/user-attachments/assets/6e4b3687-a19a-4564-9cc4-47cef8b7f81c" />
+  <img width="949" height="946" alt="image" src="https://github.com/user-attachments/assets/7f31ab5d-84e5-4aea-9613-11e1fa140a14" />
+  <img width="958" height="569" alt="image" src="https://github.com/user-attachments/assets/720c73d5-8a3e-4bc1-bcb7-462b3d2b7c5e" />
 </p>
 
 <h4>1. Lorem</h4>
