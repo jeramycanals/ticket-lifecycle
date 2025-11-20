@@ -278,6 +278,7 @@ Part 1 of this lab walks through building the complete osTicket server environme
   <img width="976" height="476" alt="image" src="https://github.com/user-attachments/assets/6b66a0e5-7507-4f74-9302-659796b16b27" />
   <img width="968" height="1005" alt="image" src="https://github.com/user-attachments/assets/7261e1f6-5749-441a-b0c5-e33a8512f778" />
   <img width="973" height="658" alt="image" src="https://github.com/user-attachments/assets/84db724c-f353-416f-ab85-c415cf6dd7df" />
+  <img width="967" height="516" alt="image" src="https://github.com/user-attachments/assets/39577dcc-6593-482b-bc23-6fb4ea9b739f" />
 </p>
 
 <h4>Step 31. Lorem</h4>
