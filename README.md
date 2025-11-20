@@ -262,10 +262,10 @@ Part 1 of this lab walks through building the complete osTicket server environme
   <img width="1015" height="456" alt="image" src="https://github.com/user-attachments/assets/a3fd2bcd-8104-42b7-aacd-7918a08bec13" />
 </p>
 
-<h4>Step 29. Lorem</h4>
+<h4>Step 29. In the Admin Panel, go to Settings → Users and make sure the option “Require registration and login to create tickets” is unchecked. This allows unregistered users to submit tickets through the End-User Portal, and make sure to save changes.</h4>
 
 <p>
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img width="952" height="798" alt="image" src="https://github.com/user-attachments/assets/e93db7bd-7f47-48fb-955f-fdc60ea53139" />
 </p>
 
 <h4>Step 30. Lorem</h4>
