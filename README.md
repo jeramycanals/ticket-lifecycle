@@ -283,7 +283,7 @@ Part 1 of this lab walks through building the complete osTicket server environme
   <img width="967" height="516" alt="image" src="https://github.com/user-attachments/assets/39577dcc-6593-482b-bc23-6fb4ea9b739f" />
 </p>
 
-<h4>Step 31. Lorem</h4>
+<h4>Step 31. Configure Users (customers)</h4>
 
 <p>
   <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
