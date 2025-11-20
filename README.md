@@ -295,10 +295,16 @@ Part 1 of this lab walks through building the complete osTicket server environme
   <img width="971" height="519" alt="image" src="https://github.com/user-attachments/assets/c471c5f0-0ead-4330-98fc-2d52be29d96a" />
 </p>
 
-<h4>Step 32. Lorem</h4>
+<h4>Step 32. Configure SLA: In the Admin Panel, go to Manage → SLA → Add New SLA Plan. Create a new SLA named "Sev-A", set the Grace Period to 1 hour, and set the Schedule to 24/7. Click "Add Plan" to create the SLA. Next, return to Manage → SLA → Add New SLA Plan and create a second SLA named "Sev-B". Set the Grace Period to 4 hours and the Schedule to 24/7, then click "Add Plan". Finally, return once more to Manage → SLA → Add New SLA Plan and create a third SLA named "Sev-C". Set the Grace Period to 8 hours and the Schedule to "Monday - Friday 8am - 5pm with U.S. Holidays". Click "Add Plan" to create the SLA.</h4>
 
 <p>
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img width="974" height="412" alt="image" src="https://github.com/user-attachments/assets/ab36628b-9c89-457d-8dd7-0e5019de3851" />
+  <img width="968" height="768" alt="image" src="https://github.com/user-attachments/assets/4ed6a772-56d8-405e-bd47-ea9a58393d5d" />
+  <img width="972" height="484" alt="image" src="https://github.com/user-attachments/assets/b0975fec-8e3a-4925-8e71-912da142104b" />
+  <img width="971" height="774" alt="image" src="https://github.com/user-attachments/assets/a583c582-095e-45ba-bb5b-14c157401494" />
+  <img width="963" height="506" alt="image" src="https://github.com/user-attachments/assets/800c0d52-b418-4907-aaee-109177784bf4" />
+  <img width="952" height="777" alt="image" src="https://github.com/user-attachments/assets/d99773ce-2721-4dd6-949d-9e0d3dee9d56" />
+  <img width="954" height="533" alt="image" src="https://github.com/user-attachments/assets/969ff2d5-e231-4017-86ac-db68be462b55" />
 </p>
 
 <h4>Step 33. Lorem</h4>
