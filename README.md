@@ -262,16 +262,19 @@ Part 1 of this lab walks through building the complete osTicket server environme
   <img width="1015" height="456" alt="image" src="https://github.com/user-attachments/assets/a3fd2bcd-8104-42b7-aacd-7918a08bec13" />
 </p>
 
-<h4>Step 29. In the Admin Panel, go to Settings → Users and make sure the option “Require registration and login to create tickets” is unchecked. This allows unregistered users to submit tickets through the End-User Portal, and make sure to save changes.</h4>
+<h4>Step 29. In the Admin Panel, go to Settings → Users and make sure the option “Require registration and login to create tickets” is unchecked. This allows unregistered users to submit tickets through the End-User Portal, and make sure to save any changes.</h4>
 
 <p>
   <img width="952" height="798" alt="image" src="https://github.com/user-attachments/assets/e93db7bd-7f47-48fb-955f-fdc60ea53139" />
 </p>
 
-<h4>Step 30. Lorem</h4>
+<h4>Step 30. Configure Agents (workers): In the Admin Panel, go to Agents → Add New Agent. Create a new agent named “Jane Doe,” then enter her email address and username. Under Access, set her Primary Department to "SysAdmins" and assign her the "Supreme Admin" role. In the Teams section, select the "Online Banking" team and click "Add". Once all information is filled out, click "Create" to add the agent.</h4>
 
 <p>
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img width="943" height="470" alt="image" src="https://github.com/user-attachments/assets/e4aaf398-087f-4a40-963b-1b4fcdac6584" />
+  <img width="975" height="1010" alt="image" src="https://github.com/user-attachments/assets/b9d326e5-ccdd-4792-898c-6b9c460d0f69" />
+  <img width="968" height="658" alt="image" src="https://github.com/user-attachments/assets/9776fee8-2f2e-42d3-bde5-e947bad7ff42" />
+  <img width="968" height="609" alt="image" src="https://github.com/user-attachments/assets/d65bf82d-9dd2-4396-886b-c41edffd6f25" />
 </p>
 
 <h4>Step 31. Lorem</h4>
