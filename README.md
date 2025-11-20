@@ -307,10 +307,16 @@ Part 1 of this lab walks through building the complete osTicket server environme
   <img width="954" height="533" alt="image" src="https://github.com/user-attachments/assets/969ff2d5-e231-4017-86ac-db68be462b55" />
 </p>
 
-<h4>Step 33. Lorem</h4>
+<h4>Step 33. Configure Help Topics (Used  When Users Create Tickets): In the Admin Panel, go to Manage → Help Topics → Add New Help Topic. Create a new Help Topic named "Business Critical Outage" and set the Parent Topic to "Report a Problem". Click "Add Topic" to create the Help Topic. This determines how ticket categories are organized when end-users submit new tickets. Next, return to Manage → Help Topics → Add New Help Topic and create a second Help Topic named "Personal Computer Issues". Set the Parent Topic to "Report a Problem", then click "Add Topic" to create the Help Topic.</h4>
 
 <p>
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img width="953" height="533" alt="image" src="https://github.com/user-attachments/assets/ec890d75-cc00-490d-a3ac-f9775bef26f5" />
+  <img width="956" height="744" alt="image" src="https://github.com/user-attachments/assets/295eda5a-35e0-4b98-a1c8-4b8c62a18ddd" />
+  <img width="957" height="777" alt="image" src="https://github.com/user-attachments/assets/a13d69fa-1e87-491b-a628-96355e2ec6e8" />
+  <img width="945" height="593" alt="image" src="https://github.com/user-attachments/assets/40e9fc80-f615-4301-97c5-d38419dd5b92" />
+  <img width="813" height="635" alt="image" src="https://github.com/user-attachments/assets/9b73cdda-ca4b-498b-a541-9db033eb2cae" />
+  <img width="952" height="778" alt="image" src="https://github.com/user-attachments/assets/0800b308-3f01-4ab0-95ba-a0bc49cb0579" />
+  <img width="950" height="652" alt="image" src="https://github.com/user-attachments/assets/17f37c6b-e318-4b95-8eea-37d71ea1c5df" />
 </p>
 
 <h4>Step 34. Lorem</h4>
