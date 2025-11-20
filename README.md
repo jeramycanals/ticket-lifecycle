@@ -323,19 +323,23 @@ Part 1 of this lab walks through building the complete osTicket server environme
   <img width="951" height="770" alt="image" src="https://github.com/user-attachments/assets/953d5fda-5712-4af3-bfd4-97b3d4e4082b" />
 </p>
 
+<h4>Step 34. Delete the Maintenance Department: To prevent tickets from being automatically assigned to the Maintenance department, go to the Admin Panel → Agents → Departments. Check the box next to “Maintenance,” click More, and select Delete. When the confirmation pop-up appears, click “Yes, Do it” to remove the department.</h4>
+
+<p>
+  <img width="953" height="474" alt="image" src="https://github.com/user-attachments/assets/01fd374d-f276-444d-a74e-33aa95ab1c90" />
+  <img width="949" height="536" alt="image" src="https://github.com/user-attachments/assets/3c2564aa-0993-42a7-895c-9d59f192b7ee" />
+  <img width="954" height="481" alt="image" src="https://github.com/user-attachments/assets/bec1033e-fca8-4bd6-8798-ee119acb9890" />
+</p>
+
 <h4>Part 2 Summary</h4>
 
 <p>
-In Part 2, we configured the core administrative structure that powers the osTicket help desk environment. We began by distinguishing the Agent Panel from the Admin Panel, then created custom roles, departments, and teams to define how permissions and responsibilities are organized. We enabled ticket submission for unregistered users and added two example agents with different permission levels to demonstrate access control. Next, we created customer accounts for end users and configured three SLA plans (Sev-A, Sev-B, and Sev-C) to define response expectations and scheduling rules. Finally, we built out five Help Topics that categorize incoming tickets, ensuring that issues are routed properly based on their type. Together, these steps established the full administrative foundation required for realistic ticket handling in the next section of the lab.
+In Part 2, we configured the core administrative structure that powers the osTicket help desk environment. We began by distinguishing the Agent Panel from the Admin Panel, then created custom roles, departments, and teams to define how permissions and responsibilities are organized. We enabled ticket submission for unregistered users and added two example agents with different permission levels to demonstrate access control. Next, we created customer accounts for end users and configured three SLA plans (Sev-A, Sev-B, and Sev-C) to define response expectations and scheduling rules. We also built out five Help Topics that categorize incoming tickets, ensuring that issues are routed properly based on their type.  Finally, we cleaned up the default configuration by deleting the unused Maintenance department to prevent tickets from being automatically assigned there. Together, these steps established the full administrative foundation required for realistic ticket handling in the next section of the lab.
 </p>
 
 <h3 id="part3">Part 3. Ticket Creation & Ticket Lifecycle Management</h3>
 
-<h4>Step 34. Lorem</h4>
 
-<p>
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
 
 <h4>Step 35. Lorem</h4>
 
