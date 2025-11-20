@@ -268,15 +268,17 @@ Part 1 of this lab walks through building the complete osTicket server environme
   <img width="952" height="798" alt="image" src="https://github.com/user-attachments/assets/e93db7bd-7f47-48fb-955f-fdc60ea53139" />
 </p>
 
-<h4>Step 30. Configure Agents (workers): In the Admin Panel, go to Agents → Add New Agent. Create a new agent named “Jane Doe,” then enter her email address and username. Under Access, set her Primary Department to "SysAdmins" and assign her the "Supreme Admin" role. In the Teams section, select the "Online Banking" team and click "Add". Click "Create" to add the agent. Next, return to Agents → Add New Agent and create another agent named "John Doe". Enter his email address and username, then under Access, set his Primary Department to "Support" and assign the "View only" role. Click "Create" to add the agent.</h4>
+<h4>Step 30. Configure Agents (workers): In the Admin Panel, go to Agents → Add New Agent. Create a new agent named “Jane Doe,” then enter her email address and username. Click "Set Password", uncheck "Send the agent a password reset email", fill out the password fields, and uncheck "Require password change at next login" for lab simplicity. Click "Update" to set the agent's password.  Under Access, set her Primary Department to "SysAdmins" and assign her the "Supreme Admin" role. In the Teams section, select the "Online Banking" team and click "Add". Click "Create" to add the agent. Next, return to Agents → Add New Agent and create another agent named "John Doe". Enter his email address and username, then click "Set Password". Uncheck "Send the agent a password reset email", fill out the password fields, and uncheck "Require password change at next login". Click "Update" to set the agent password. Under Access, set his Primary Department to "Support" and assign the "View only" role. Click "Create" to add the agent.</h4>
 
 <p>
   <img width="943" height="470" alt="image" src="https://github.com/user-attachments/assets/e4aaf398-087f-4a40-963b-1b4fcdac6584" />
   <img width="975" height="1010" alt="image" src="https://github.com/user-attachments/assets/b9d326e5-ccdd-4792-898c-6b9c460d0f69" />
+  <img width="967" height="618" alt="image" src="https://github.com/user-attachments/assets/2ee9f664-c6f7-413e-b2a1-fd11eac27c6b" />
   <img width="968" height="658" alt="image" src="https://github.com/user-attachments/assets/9776fee8-2f2e-42d3-bde5-e947bad7ff42" />
   <img width="968" height="609" alt="image" src="https://github.com/user-attachments/assets/d65bf82d-9dd2-4396-886b-c41edffd6f25" />
   <img width="976" height="476" alt="image" src="https://github.com/user-attachments/assets/6b66a0e5-7507-4f74-9302-659796b16b27" />
   <img width="968" height="1005" alt="image" src="https://github.com/user-attachments/assets/7261e1f6-5749-441a-b0c5-e33a8512f778" />
+  <img width="969" height="621" alt="image" src="https://github.com/user-attachments/assets/2f0eb6f4-c48b-423d-898a-1370c8930a43" />
   <img width="973" height="658" alt="image" src="https://github.com/user-attachments/assets/84db724c-f353-416f-ab85-c415cf6dd7df" />
   <img width="967" height="516" alt="image" src="https://github.com/user-attachments/assets/39577dcc-6593-482b-bc23-6fb4ea9b739f" />
 </p>
