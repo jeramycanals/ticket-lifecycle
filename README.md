@@ -283,10 +283,16 @@ Part 1 of this lab walks through building the complete osTicket server environme
   <img width="967" height="516" alt="image" src="https://github.com/user-attachments/assets/39577dcc-6593-482b-bc23-6fb4ea9b739f" />
 </p>
 
-<h4>Step 31. Configure Users (customers)</h4>
+<h4>Step 31. Configure Users (customers): In the Agent Panel, go to Users → Add User. Create a user named “Karen Doe”, then enter her email address and click "Add User" to add the customer account. Next, return to Users → Add User and create another user named "Ken Doe". Enter his email address and click "Add User" to complete the creation of the second customer.</h4>
 
 <p>
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img width="969" height="452" alt="image" src="https://github.com/user-attachments/assets/2bfce7b3-bd28-45ec-a7c9-33b2679b1771" />
+  <img width="968" height="631" alt="image" src="https://github.com/user-attachments/assets/26f8c9a6-62df-432a-a000-478d3f2044d0" />
+  <img width="970" height="511" alt="image" src="https://github.com/user-attachments/assets/69a7af49-6c11-457b-b042-8cb1bf5e2813" />
+  <img width="971" height="486" alt="image" src="https://github.com/user-attachments/assets/4d1bcbca-7009-47a7-b08c-bba8ac8bb209" />
+  <img width="966" height="632" alt="image" src="https://github.com/user-attachments/assets/9f7befe4-e8d8-47f5-8a3a-05341fb80291" />
+  <img width="970" height="520" alt="image" src="https://github.com/user-attachments/assets/28e2c11f-6a38-4d6f-9410-54a01c2c902a" />
+  <img width="971" height="519" alt="image" src="https://github.com/user-attachments/assets/c471c5f0-0ead-4330-98fc-2d52be29d96a" />
 </p>
 
 <h4>Step 32. Lorem</h4>
