@@ -355,13 +355,15 @@ In Part 2, we configured the core administrative structure that powers the osTic
 <p>
   <img width="953" height="525" alt="image" src="https://github.com/user-attachments/assets/2f2a09da-5fb2-47f5-96b8-be5ba8414fd1" />
   <img width="949" height="440" alt="image" src="https://github.com/user-attachments/assets/5cca2597-da6a-4606-844c-d39c3b0209e0" />
-  <img width="950" height="1017" alt="image" src="https://github.com/user-attachments/assets/b994363d-3878-4e59-9f0b-790b6438db62" />
+  <img width="955" height="945" alt="image" src="https://github.com/user-attachments/assets/b3879eff-881a-471e-94d4-71b2dbd39f53" />
 </p>
 
-<h4>Step 37. Set Properties to the Ticket: </h4>
+<h4>Step 37. Update the SLA Plan: In the ticket view, locate the SLA Plan field and change it from Default SLA to Sev-A, since this is a major, high-impact issue that requires immediate and continuous attention. In the Reason for Update box, enter:
+"This issue has a wide impact; customers are unable to access online banking." Then click Update to apply the changes.</h4>
 
 <p>
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img width="951" height="493" alt="image" src="https://github.com/user-attachments/assets/11a81505-699e-444b-a902-d230f14c1498" />
+  <img width="986" height="759" alt="image" src="https://github.com/user-attachments/assets/fff6fc06-b2b1-4937-a4c5-d436105b7e3d" />
 </p>
 
 <h4>Step 38. Lorem</h4>
