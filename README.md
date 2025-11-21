@@ -350,7 +350,7 @@ In Part 2, we configured the core administrative structure that powers the osTic
 </p>
 
 <h4>Step 36. Log In and View the Ticket as Help Desk Agent (John): Go to the Staff Control Panel at "http://localhost/osTicket/scp/login.php"
- and log in as John, the Help Desk Agent you created earlier in the lab. After logging in, navigate to the Tickets tab and locate the ticket submitted by Karen Doe. Click the ticket number to open and view the ticket details from the help desk agent’s perspective.(</h4>
+ and log in as John, the Help Desk Agent you created earlier in the lab. After logging in, navigate to the Tickets tab and locate the ticket submitted by Karen Doe. Click the ticket number to open and view the ticket details from the help desk agent’s perspective.</h4>
 
 <p>
   <img width="953" height="525" alt="image" src="https://github.com/user-attachments/assets/2f2a09da-5fb2-47f5-96b8-be5ba8414fd1" />
@@ -358,85 +358,145 @@ In Part 2, we configured the core administrative structure that powers the osTic
   <img width="950" height="1017" alt="image" src="https://github.com/user-attachments/assets/b994363d-3878-4e59-9f0b-790b6438db62" />
 </p>
 
-<h4>37. Observe Ticket's Properties as Help Desk Agent (John)</h4>
+<h4>Step 37. Observe Ticket's Properties as Help Desk Agent (John)</h4>
 
 <p>
   <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
-<h4>38. Lorem</h4>
+<h4>Step 38. Lorem</h4>
 
 <p>
   <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
-<h4>39. Lorem</h4>
+<h4>Step 39. Lorem</h4>
 
 <p>
   <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
-<h4>40. Lorem</h4>
+<h4>Step 40. Lorem</h4>
 
 <p>
   <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
-<h4>41. Lorem</h4>
+<h4>Step 41. Lorem</h4>
 
 <p>
   <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
-<h4>42. Lorem</h4>
+<h4>Step 42. Lorem</h4>
 
 <p>
   <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
-<h4>43. Lorem</h4>
+<h4>Step 43. Lorem</h4>
 
 <p>
   <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
-<h4>44. Lorem</h4>
+<h4>Step 44. Lorem</h4>
 
 <p>
   <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
-<h4>45. Lorem</h4>
+<h4>Step 45. Lorem</h4>
 
 <p>
   <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
-<h4>46. Lorem</h4>
+<h4>Step 46. Lorem</h4>
 
 <p>
   <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
-<h4>47. Lorem</h4>
+<h4>Step 47. Lorem</h4>
 
 <p>
   <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
-<h4>48. Lorem</h4>
+<h4>Step 48. Lorem</h4>
 
 <p>
   <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
-<h4>49. Lorem</h4>
+<h4>Step 49. Lorem</h4>
 
 <p>
   <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
-<h4>50. Lorem</h4>
+<h4>Step 50. Lorem</h4>
+
+<p>
+  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<h4>Step 51. Lorem</h4>
+
+<p>
+  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<h4>Step 52. Lorem</h4>
+
+<p>
+  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<h4>Step 53. Lorem</h4>
+
+<p>
+  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<h4>Step 54. Lorem</h4>
+
+<p>
+  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<h4>Step 55. Lorem</h4>
+
+<p>
+  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<h4>Step 56. Lorem</h4>
+
+<p>
+  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<h4>Step 57. Lorem</h4>
+
+<p>
+  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<h4>Step 58. Lorem</h4>
+
+<p>
+  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<h4>Step 59. Lorem</h4>
+
+<p>
+  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<h4>Step 60. Lorem</h4>
 
 <p>
   <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
