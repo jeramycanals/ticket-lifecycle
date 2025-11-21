@@ -358,7 +358,7 @@ In Part 2, we configured the core administrative structure that powers the osTic
   <img width="955" height="945" alt="image" src="https://github.com/user-attachments/assets/b3879eff-881a-471e-94d4-71b2dbd39f53" />
 </p>
 
-<h4>Step 37. Update the SLA Plan: In the ticket view, locate the SLA Plan field and click on "Default SLA", and change the SLA Plan to Sev-A, since this is a major, high-impact issue that requires immediate and continuous attention. In the Reason for Update box, enter: "This issue has a wide impact; customers are unable to access online banking." Then click Update to apply the changes.</h4>
+<h4>Step 37. Update the Ticket's SLA Plan: In the ticket view, locate the SLA Plan field, click on "Default SLA", and change the SLA Plan to Sev-A, since this is a major, high-impact issue that requires immediate and continuous attention. In the Reason for Update box, enter: "This issue has a wide impact; customers are unable to access online banking." Then click Update to apply the changes.</h4>
 
 <p>
   <img width="1422" height="750" alt="image" src="https://github.com/user-attachments/assets/2ab0451b-7266-4926-86a6-5c80eb416279" />
