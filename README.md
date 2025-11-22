@@ -468,23 +468,28 @@ In Part 2, we configured the core administrative structure that powers the osTic
   <img width="1042" height="975" alt="image" src="https://github.com/user-attachments/assets/f3b96475-21bc-4763-9679-14344c6f7e7c" />
 </p>
 
-<h4>Step 51. Lorem</h4>
+<h4>Step 51. Post an Internal Note (John): In the ticket view, scroll down and select the Post Internal Note tab. In the text field, enter: “Customer is upset, make sure to remain empathetic during future communication.” Then click Post Note to add the internal update to the ticket. Note: Always write internal notes as if the customer might see them. Even though internal notes are not shown to end-users, it’s best practice to keep them professional in case they are ever exposed.</h4>
 
 <p>
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img width="1056" height="968" alt="image" src="https://github.com/user-attachments/assets/668193db-8ec9-4f2b-b967-d66260571d2c" />
+  <img width="1028" height="969" alt="image" src="https://github.com/user-attachments/assets/9d6a07db-b3da-479e-abe5-080f3a37ae2b" />
+  <img width="1030" height="976" alt="image" src="https://github.com/user-attachments/assets/d8edd464-be33-40cb-8356-765872eb9759" />
 </p>
 
-<h4>Step 52. Lorem</h4>
+<h4>Step 52. Update the Internal Note Title (John): In the ticket view, scroll down to the Internal Note you just created. Click the small down arrow next to it and select Edit. In the Title field, enter: “Customer is upset.” Then click Save to update the internal note.</h4>
 
 <p>
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img width="1195" height="566" alt="image" src="https://github.com/user-attachments/assets/e3fe65ec-68e3-4b7b-8525-e303f1ffa6ea" />
+  <img width="939" height="562" alt="image" src="https://github.com/user-attachments/assets/eb1e1260-75d2-4a37-b190-59d1bd43cbb3" />
+  <img width="1052" height="596" alt="image" src="https://github.com/user-attachments/assets/6240c319-2731-4e36-be2f-53699d3d0f6a" />
 </p>
 
-<h4>Step 53. Lorem</h4>
+<h4>Step 53. Resolve the ticket (John): Scroll to the top of the ticket view and locate the Status field. Click “Open,” then select “Resolved.” A pop-up window will appear. Update the ticket status to Resolved, and in the Reason for Status Change box, enter: “Issue resolved after rolling back the recent update. Online banking is now fully operational.” Then click Close to apply the changes and mark the issue as completed. Once resolved, the ticket will disappear from the Open Tickets tab, confirming that it has been successfully closed.</h4>
 
 <p>
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img width="1090" height="652" alt="image" src="https://github.com/user-attachments/assets/9dc4bb9f-04cd-464c-b156-40a212437aee" />
 </p>
+
 
 <h4>Step 54. Lorem</h4>
 
@@ -523,6 +528,12 @@ In Part 2, we configured the core administrative structure that powers the osTic
 </p>
 
 <h4>Step 60. Lorem</h4>
+
+<p>
+  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<h4>Step 61. Lorem</h4>
 
 <p>
   <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
