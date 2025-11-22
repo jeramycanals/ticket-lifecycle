@@ -359,7 +359,7 @@ In Part 2, we configured the core administrative structure that powers the osTic
   <img width="955" height="945" alt="image" src="https://github.com/user-attachments/assets/b3879eff-881a-471e-94d4-71b2dbd39f53" />
 </p>
 
-<h4>Step 37. Update the Ticket's SLA Plan: In the ticket view, locate the SLA Plan field, click on "Default SLA", and change the SLA Plan to Sev-A, since this is a major, high-impact issue that requires immediate and continuous attention. In the Reason for Update box, enter: "This issue has a wide impact; customers are unable to access online banking". Then click Update to apply the changes.</h4>
+<h4>Step 37. Update the Ticket's SLA Plan (John): In the ticket view, locate the SLA Plan field, click on "Default SLA", and change the SLA Plan to Sev-A, since this is a major, high-impact issue that requires immediate and continuous attention. In the Reason for Update box, enter: "This issue has a wide impact; customers are unable to access online banking". Then click Update to apply the changes.</h4>
 
 <p>
   <img width="1422" height="750" alt="image" src="https://github.com/user-attachments/assets/2ab0451b-7266-4926-86a6-5c80eb416279" />
@@ -367,7 +367,7 @@ In Part 2, we configured the core administrative structure that powers the osTic
   <img width="986" height="759" alt="image" src="https://github.com/user-attachments/assets/fff6fc06-b2b1-4937-a4c5-d436105b7e3d" />
 </p>
 
-<h4>Step 38. Update the Ticket's Help Topic: In the ticket view, locate the Help Topic field, click "Report a Problem" and change the Help Topic to "Report a Problem / Business Critical Outage" since it is more apporpriate for the severity of the issue. In the Reason for Update box, enter: "No customers are able to access online banking." Then click Update to apply the changes.</h4>
+<h4>Step 38. Update the Ticket's Help Topic (John): In the ticket view, locate the Help Topic field, click "Report a Problem" and change the Help Topic to "Report a Problem / Business Critical Outage" since it is more apporpriate for the severity of the issue. In the Reason for Update box, enter: "No customers are able to access online banking." Then click Update to apply the changes.</h4>
 
 <p>
   <img width="983" height="766" alt="image" src="https://github.com/user-attachments/assets/64d0b823-77c6-477c-84a4-cdb6a541e07b" />
@@ -375,7 +375,7 @@ In Part 2, we configured the core administrative structure that powers the osTic
   <img width="1107" height="947" alt="image" src="https://github.com/user-attachments/assets/99b84d90-91aa-47b5-842e-d8e5d94b483f" />
 </p>
 
-<h4>Step 39. Update the Ticket's Assigned To: In the ticket view, locate the Assigned To field, click "— Unassigned —" and change the Assignee to the Online Banking team. In the Reason for Update box, enter: "Customers are not able to access the online banking portal, assigning to the online banking team." Then click Assign to apply the changes.</h4>
+<h4>Step 39. Update the Ticket's Assigned To (John): In the ticket view, locate the Assigned To field, click "— Unassigned —" and change the Assignee to the Online Banking team. In the Reason for Update box, enter: "Customers are not able to access the online banking portal, assigning to the online banking team." Then click Assign to apply the changes.</h4>
 
 <p>
   <img width="1098" height="956" alt="image" src="https://github.com/user-attachments/assets/4ccd1fba-c4ac-42e3-b081-eb0a5d950223" />
@@ -383,13 +383,15 @@ In Part 2, we configured the core administrative structure that powers the osTic
   <img width="645" height="861" alt="image" src="https://github.com/user-attachments/assets/4cd860e9-bcfe-4801-8292-fd087c604265" />
 </p>
 
-<h4>Step 40. Lorem</h4>
+<h4>Step 40. Log In and Open the Ticket (Jane): Log out of John’s account, then log back in as Jane, the Supreme Admin you created earlier in the lab. After signing in, locate the “entire mobile/online banking system is down” ticket and click the ticket number to open it.</h4>
 
 <p>
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img width="1105" height="565" alt="image" src="https://github.com/user-attachments/assets/2cc0097f-ff7f-46f6-8c2a-369b9a26275c" />
+  <img width="1105" height="473" alt="image" src="https://github.com/user-attachments/assets/6a810a57-abbf-4d85-b9d6-89fba48c127f" />
+  <img width="1098" height="964" alt="image" src="https://github.com/user-attachments/assets/701b7842-743b-4e42-b08e-b19ad8dfe27d" />
 </p>
 
-<h4>Step 41. Lorem</h4>
+<h4>Step 41. Continue Working the Ticket(Jane)</h4>
 
 <p>
   <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
