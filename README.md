@@ -268,7 +268,7 @@ Part 1 of this lab walks through building the complete osTicket server environme
   <img width="952" height="798" alt="image" src="https://github.com/user-attachments/assets/e93db7bd-7f47-48fb-955f-fdc60ea53139" />
 </p>
 
-<h4>Step 30. Configure Agents (workers): In the Admin Panel, go to Agents → Add New Agent. Create a new agent named “Jane Doe,” then enter her email address and username. Click "Set Password", uncheck "Send the agent a password reset email", fill out the password fields, and uncheck "Require password change at next login" for lab simplicity. Click "Update" to set the agent's password.  Under Access, set her Primary Department to "SysAdmins" and assign her the "Supreme Admin" role. In the Teams section, select the "Online Banking" team and click "Add". Click "Create" to add the agent. Next, return to Agents → Add New Agent and create another agent named "John Doe". Enter his email address and username, then click "Set Password". Uncheck "Send the agent a password reset email", fill out the password fields, and uncheck "Require password change at next login". Click "Update" to set the agent's password. Under Access, set his Primary Department to "Support" and assign the "All Access" role. Click "Create" to add the agent.</h4>
+<h4>Step 30. Configure Agents (workers): In the Admin Panel, go to Agents → Add New Agent. Create a new agent named “Jane Doe,” then enter her email address and username. Click "Set Password", uncheck "Send the agent a password reset email", fill out the password fields, and uncheck "Require password change at next login" for lab simplicity. Click "Update" to set the agent's password.  Under Access, set her Primary Department to "SysAdmins" and assign her the "Supreme Admin" role. In the Teams section, select the "Online Banking" team and click "Add". Click "Create" to add the agent. Next, return to Agents → Add New Agent and create another agent named "John Doe". Enter his email address and username, then click "Set Password". Uncheck "Send the agent a password reset email", fill out the password fields, and uncheck "Require password change at next login". Click "Update" to set the agent's password. Under Access, set his Primary Department to "Support" and assign the "All Access" role. In the Teams section, select the "Level I Support" team and click "Add".  Click "Create" to add the agent.</h4>
 
 <p>
   <img width="943" height="470" alt="image" src="https://github.com/user-attachments/assets/e4aaf398-087f-4a40-963b-1b4fcdac6584" />
@@ -280,6 +280,7 @@ Part 1 of this lab walks through building the complete osTicket server environme
   <img width="968" height="1005" alt="image" src="https://github.com/user-attachments/assets/7261e1f6-5749-441a-b0c5-e33a8512f778" />
   <img width="969" height="621" alt="image" src="https://github.com/user-attachments/assets/2f0eb6f4-c48b-423d-898a-1370c8930a43" />
   <img width="952" height="648" alt="image" src="https://github.com/user-attachments/assets/a163411a-c279-45d1-aad7-df7f4e0bf060" />
+  <img width="1097" height="604" alt="image" src="https://github.com/user-attachments/assets/60e19b1d-44cf-4ca1-99a7-20f71809d757" />
   <img width="967" height="516" alt="image" src="https://github.com/user-attachments/assets/39577dcc-6593-482b-bc23-6fb4ea9b739f" />
 </p>
 
