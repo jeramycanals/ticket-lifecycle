@@ -399,10 +399,11 @@ In Part 2, we configured the core administrative structure that powers the osTic
   <img width="637" height="885" alt="image" src="https://github.com/user-attachments/assets/c471b20b-25f9-4aaa-8d05-9a9accefd0e7" />
 </p>
 
-<h4>Step 42. Lorem</h4>
+<h4>Step 42. Post an Update Reply (Jane):  In the ticket view, scroll down to the Post Reply box, and in the text field, enter: “I suspect the problem might be related to the recent updates. We tested them sufficiently, but I am going to look into it further and roll them back if I determine that was the cause.” Then click Post Reply to add the update to the ticket.</h4>
 
 <p>
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img width="1185" height="963" alt="image" src="https://github.com/user-attachments/assets/b1d8b9be-20fd-412f-a8f4-ff64f1b604b9" />
+  <img width="1199" height="282" alt="image" src="https://github.com/user-attachments/assets/656e6559-3028-4416-a6b7-851fa80c298a" />
 </p>
 
 <h4>Step 43. Lorem</h4>
