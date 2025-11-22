@@ -367,7 +367,7 @@ In Part 2, we configured the core administrative structure that powers the osTic
   <img width="986" height="759" alt="image" src="https://github.com/user-attachments/assets/fff6fc06-b2b1-4937-a4c5-d436105b7e3d" />
 </p>
 
-<h4>Step 38. Update the Ticket's Help Topic (John): In the ticket view, locate the Help Topic field, click "Report a Problem" and change the Help Topic to "Report a Problem / Business Critical Outage" since it is more apporpriate for the severity of the issue. In the Reason for Update box, enter: "No customers are able to access online banking." Then click Update to apply the changes.</h4>
+<h4>Step 38. Update the Ticket's Help Topic (John): In the ticket view, locate the Help Topic field, click "Report a Problem" and change the Help Topic to "Report a Problem / Business Critical Outage" since it is more appropriate for the severity of the issue. In the Reason for Update box, enter: "No customers are able to access online banking." Then click Update to apply the changes.</h4>
 
 <p>
   <img width="983" height="766" alt="image" src="https://github.com/user-attachments/assets/64d0b823-77c6-477c-84a4-cdb6a541e07b" />
@@ -391,10 +391,12 @@ In Part 2, we configured the core administrative structure that powers the osTic
   <img width="1098" height="964" alt="image" src="https://github.com/user-attachments/assets/701b7842-743b-4e42-b08e-b19ad8dfe27d" />
 </p>
 
-<h4>Step 41. Continue Working the Ticket(Jane)</h4>
+<h4>Step 41. Update the Ticket's Assigned To (Jane): In the ticket view, locate the Assigned To field. Click "Online Banking" and change the Assignee to "Jane Doe" so she can take direct ownership of the ticket. In the Reason for Update box, enter: "I'll be taking this ticket." Then click Assign to apply the changes.</h4>
 
 <p>
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img width="1107" height="494" alt="image" src="https://github.com/user-attachments/assets/2db23f43-4958-41b0-8afc-59c1d7d6aa74" />
+  <img width="1106" height="517" alt="image" src="https://github.com/user-attachments/assets/d3db47be-f963-4189-aacb-a8c10466019c" />
+  <img width="637" height="885" alt="image" src="https://github.com/user-attachments/assets/c471b20b-25f9-4aaa-8d05-9a9accefd0e7" />
 </p>
 
 <h4>Step 42. Lorem</h4>
