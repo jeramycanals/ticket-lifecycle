@@ -374,10 +374,12 @@ In Part 2, we configured the core administrative structure that powers the osTic
   <img width="1107" height="947" alt="image" src="https://github.com/user-attachments/assets/99b84d90-91aa-47b5-842e-d8e5d94b483f" />
 </p>
 
-<h4>Step 39. Lorem</h4>
+<h4>Step 39. Update the Ticket's Assigned To: In the ticket view, locate the Assigned To field, click "— Unassigned —" and change the Assignee to the Online Banking team. In the Reason for Update box, enter: "Customers are not able to access the online banking portal, assigning to the online banking team." Then click Assign to apply the changes.</h4>
 
 <p>
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img width="1098" height="956" alt="image" src="https://github.com/user-attachments/assets/4ccd1fba-c4ac-42e3-b081-eb0a5d950223" />
+  <img width="644" height="199" alt="image" src="https://github.com/user-attachments/assets/5475d548-5f52-412c-8f00-bff1e92ae02a" />
+  <img width="645" height="861" alt="image" src="https://github.com/user-attachments/assets/4cd860e9-bcfe-4801-8292-fd087c604265" />
 </p>
 
 <h4>Step 40. Lorem</h4>
