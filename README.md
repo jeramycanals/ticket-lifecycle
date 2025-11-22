@@ -446,16 +446,19 @@ In Part 2, we configured the core administrative structure that powers the osTic
   <img width="1037" height="658" alt="image" src="https://github.com/user-attachments/assets/ab81c04a-0620-4bd6-9122-f659e79a6d8c" />
 </p>
 
-<h4>Step 48. Lorem</h4>
+<h4>Step 48. Update the Accounting Ticket's Assigned To (John): In the ticket view, locate the Assigned To field, click “— Unassigned —”, and change the Assignee to John Doe so he can begin working on the issue. In the Reason for Update box, enter: "Taking ownership of this ticket." Then click Assign to apply the changes.</h4>
 
 <p>
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img width="1034" height="662" alt="image" src="https://github.com/user-attachments/assets/02f5808a-3d82-42d1-9fdc-173f0b6b9dfc" />
+  <img width="1036" height="649" alt="image" src="https://github.com/user-attachments/assets/73b193de-f8ab-46e2-9aca-037f6c5a698a" />
+  <img width="1204" height="653" alt="image" src="https://github.com/user-attachments/assets/51536a89-79c8-410c-b186-86024a0d0b13" />
 </p>
 
-<h4>Step 49. Lorem</h4>
+<h4>Step 49. Post an Update Reply (John): In the ticket view, scroll down to the Post Reply box. In the text field, enter: “Customer reports that only two users in the accounting department are unable to open or use Adobe Reader. Customer is testing a system restart and will follow up after lunch.” Then click Post Reply to add the update to the ticket.</h4>
 
 <p>
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img width="1040" height="968" alt="image" src="https://github.com/user-attachments/assets/5a3e0865-443c-4272-96b2-2c52c80f4bfc" />
+  <img width="1066" height="979" alt="image" src="https://github.com/user-attachments/assets/711b7145-bb5b-462b-b662-daeed05e90cb" />
 </p>
 
 <h4>Step 50. Lorem</h4>
