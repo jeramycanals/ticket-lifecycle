@@ -484,10 +484,13 @@ In Part 2, we configured the core administrative structure that powers the osTic
   <img width="1052" height="596" alt="image" src="https://github.com/user-attachments/assets/6240c319-2731-4e36-be2f-53699d3d0f6a" />
 </p>
 
-<h4>Step 53. Resolve the ticket (John): Scroll to the top of the ticket view and locate the Status field. Click “Open,” then select “Resolved.” A pop-up window will appear. Update the ticket status to Resolved, and in the Reason for Status Change box, enter: “Issue resolved after rolling back the recent update. Online banking is now fully operational.” Then click Close to apply the changes and mark the issue as completed. Once resolved, the ticket will disappear from the Open Tickets tab, confirming that it has been successfully closed.</h4>
+<h4>Step 53. Resolve the Ticket (John): Scroll to the top of the ticket view and locate the Status field. Click “Open,” then select “Resolved.” A pop-up window will appear. Update the ticket status to Resolved, and in the Reason for Status Change box, enter: “Restart fixed the issue for both users.” Then click Close to apply the changes and mark the issue as completed. Once resolved, the ticket will disappear from the Open Tickets tab, confirming that it has been successfully closed.</h4>
 
 <p>
   <img width="1090" height="652" alt="image" src="https://github.com/user-attachments/assets/9dc4bb9f-04cd-464c-b156-40a212437aee" />
+  <img width="1031" height="616" alt="image" src="https://github.com/user-attachments/assets/3586edc9-3f6b-42ac-b399-8c1ca175f69a" />
+  <img width="1043" height="425" alt="image" src="https://github.com/user-attachments/assets/f3abd40a-2aeb-40e7-9ea4-41ec845f8eec" />
+  <img width="1036" height="404" alt="image" src="https://github.com/user-attachments/assets/02dda139-9e81-4548-ad0a-e3e9f4a319bf" />
 </p>
 
 
