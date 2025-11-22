@@ -494,10 +494,10 @@ In Part 2, we configured the core administrative structure that powers the osTic
 </p>
 
 
-<h4>Step 54. Lorem</h4>
+<h4>Step 54. View Closed Tickets (John): Go to the Tickets tab, then click the Closed filter to view all resolved tickets. This page displays useful information such as the ticket number, date closed, subject, the user who created the ticket, and the agent who closed it. Viewing closed tickets helps verify successful resolutions and provides a historical record for auditing or follow-up purposes.</h4>
 
 <p>
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img width="1044" height="450" alt="image" src="https://github.com/user-attachments/assets/c740581f-38fa-40a6-a0c9-ca2dba82b263" />
 </p>
 
 <h4>Step 55. Lorem</h4>
