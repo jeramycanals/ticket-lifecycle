@@ -500,16 +500,19 @@ In Part 2, we configured the core administrative structure that powers the osTic
   <img width="1044" height="450" alt="image" src="https://github.com/user-attachments/assets/c740581f-38fa-40a6-a0c9-ca2dba82b263" />
 </p>
 
-<h4>Step 55. Lorem</h4>
+<h4>Step 55. Creating a Ticket as an End-User on behalf of the CFO (Karen): Go to the End-User Portal URL (http://localhost/osTicket) and click "Open a New Ticket". Fill out the form as Karen Doe. Enter her Email Address, Full Name, and Phone Number. For the Help Topic, select "Report a Problem / Personal Computer Issues". In the Issue Summary, enter "CFO states he is unable to use laptop". In the Details box, enter the description: "Laptop won't power on despite pressing the power button." Once all fields are completed, click "Create Ticket" to submit the issue on behalf of the CFO.</h4>
 
 <p>
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img width="987" height="570" alt="image" src="https://github.com/user-attachments/assets/1366b3f5-bde8-4f02-a8b0-c786fd296234" />
+  <img width="986" height="980" alt="image" src="https://github.com/user-attachments/assets/e037da4c-bf67-4560-8028-6b4184ba031e" />
+  <img width="985" height="566" alt="image" src="https://github.com/user-attachments/assets/a0d3934d-baa3-408c-b3c4-2e4921ac571b" />
 </p>
 
-<h4>Step 56. Lorem</h4>
+<h4>Step 56. Log In and Open the CFO's Ticket (John): Go to the Staff Control Panel login page (http://localhost/osTicket/scp/login.php) and log in as John. After signing in, open the Tickets tab and locate the ticket titled “CFO states he is unable to use laptop” Click the ticket number to open it and review the issue details from the help desk agent’s perspective.</h4>
 
 <p>
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img width="1039" height="414" alt="image" src="https://github.com/user-attachments/assets/f7d4815c-c79e-4a36-8c4b-bdaa91d1269c" />
+  <img width="1031" height="619" alt="image" src="https://github.com/user-attachments/assets/7aa7c0a5-3b17-4459-a7bd-9b09fd10e9c5" />
 </p>
 
 <h4>Step 57. Lorem</h4>
