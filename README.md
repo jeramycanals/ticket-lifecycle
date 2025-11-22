@@ -342,7 +342,7 @@ In Part 2, we configured the core administrative structure that powers the osTic
 
 
 
-<h4>Step 35. Creating a Ticket as an End-User: Go to the End-User Portal URL (http://localhost/osTicket) and click "Open a New Ticket". Using the customer account you created earlier, fill out the form as Karen Doe. Enter her Email Address, Full Name, and Phone Number. For the Help Topic, select "Report a Problem". In the Issue Summary, enter "entire mobile/online banking system is down". In the details box, type the following description: "My employees are reporting that users are no longer able to access the online banking portal. The ones who can occasionally access it cannot log in." Once all fields are completed, click "Create Ticket" to submit the issue.</h4>
+<h4>Step 35. Creating a Ticket as an End-User (Karen): Go to the End-User Portal URL (http://localhost/osTicket) and click "Open a New Ticket". Using the customer account you created earlier, fill out the form as Karen Doe. Enter her Email Address, Full Name, and Phone Number. For the Help Topic, select "Report a Problem". In the Issue Summary, enter "entire mobile/online banking system is down". In the details box, type the following description: "My employees are reporting that users are no longer able to access the online banking portal. The ones who can occasionally access it cannot log in." Once all fields are completed, click "Create Ticket" to submit the issue.</h4>
 
 <p>
   <img width="957" height="625" alt="image" src="https://github.com/user-attachments/assets/6e4b3687-a19a-4564-9cc4-47cef8b7f81c" />
@@ -422,10 +422,12 @@ In Part 2, we configured the core administrative structure that powers the osTic
   <img width="1198" height="382" alt="image" src="https://github.com/user-attachments/assets/8602db80-fbfa-443a-ba70-55a4b1eb4727" />
 </p>
 
-<h4>Step 45. Lorem</h4>
+<h4>Step 45. Creating a Ticket as an End-User (Ken): Go to the End-User Portal URL (http://localhost/osTicket) and click "Open a New Ticket". Using the customer account you created earlier, fill out the form as Ken Doe. Enter his Email Address, Full Name, and Phone Number. For the Help Topic, select "General Inquiry / Other". In the Issue Summary, enter "accounting department needs adobe upgrade, broken". Then, in the details box, type the following description: "It looks like many people in the accounting department can't use their adobe software." After completing all fields, click "Create Ticket" to submit the issue.</h4>
 
 <p>
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img width="1133" height="533" alt="image" src="https://github.com/user-attachments/assets/77c6c0e7-a085-4f7f-8e33-3ee9381a249f" />
+  <img width="1184" height="978" alt="image" src="https://github.com/user-attachments/assets/b5a3a8cf-0d9e-4aea-a4b5-3db9c7c1bbdf" />
+  <img width="1176" height="566" alt="image" src="https://github.com/user-attachments/assets/933b9494-409d-4051-abd3-fe05e5b05100" />
 </p>
 
 <h4>Step 46. Lorem</h4>
