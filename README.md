@@ -391,7 +391,7 @@ In Part 2, we configured the core administrative structure that powers the osTic
   <img width="1098" height="964" alt="image" src="https://github.com/user-attachments/assets/701b7842-743b-4e42-b08e-b19ad8dfe27d" />
 </p>
 
-<h4>Step 41. Update the Ticket's Assigned To (Jane): In the ticket view, locate the Assigned To field. Click "Online Banking" and change the Assignee to "Jane Doe" so she can take direct ownership of the ticket. In the Reason for Update box, enter: "I'll be taking this ticket." Then click Assign to apply the changes.</h4>
+<h4>Step 41. Start Working the Ticket, Update the Ticket's Assigned To (Jane): In the ticket view, locate the Assigned To field. Click "Online Banking" and change the Assignee to "Jane Doe" so she can take direct ownership of the ticket. In the Reason for Update box, enter: "I'll be taking this ticket." Then click Assign to apply the changes.</h4>
 
 <p>
   <img width="1107" height="494" alt="image" src="https://github.com/user-attachments/assets/2db23f43-4958-41b0-8afc-59c1d7d6aa74" />
@@ -406,16 +406,20 @@ In Part 2, we configured the core administrative structure that powers the osTic
   <img width="1199" height="282" alt="image" src="https://github.com/user-attachments/assets/656e6559-3028-4416-a6b7-851fa80c298a" />
 </p>
 
-<h4>Step 43. Lorem</h4>
+<h4>Step 43. Simulate the Issue Being Fixed and Post Another Update (Jane): We will now pretend the issue has been resolved and add another update to the ticket. In the ticket view, scroll down to the Post Reply box and enter: “It was determined that the root cause was the recent update. We rolled it back, notified the vendor, and are waiting for a proper fix. Online banking should now be up and running.” Then click Post Reply to add the update to the ticket.</h4>
 
 <p>
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img width="1204" height="987" alt="image" src="https://github.com/user-attachments/assets/df334a89-904f-4601-8b2f-8519f49bc753" />
+  <img width="1199" height="981" alt="image" src="https://github.com/user-attachments/assets/473da6ee-a3a9-445e-950f-acaf7775614d" />
 </p>
 
-<h4>Step 44. Lorem</h4>
+<h4>Step 44. Resolve the ticket (Jane): Scroll to the top of the ticket view and locate the Status field. Click “Open,” then select “Resolved.” A pop-up window will appear. Update the ticket status to Resolved, and in the Reason for Status Change box, enter: “Issue resolved after rolling back the recent update. Online banking is now fully operational.” Then click Close to apply the changes and mark the issue as completed. Once resolved, the ticket will disappear from the Open Tickets tab, confirming that it has been successfully closed.</h4>
 
 <p>
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img width="1208" height="590" alt="image" src="https://github.com/user-attachments/assets/ab9b5c2d-02d5-45a0-aa16-858fb262bb68" />
+  <img width="1168" height="594" alt="image" src="https://github.com/user-attachments/assets/0d711d6f-67a7-4ec8-870a-7cebe9e81926" />
+  <img width="576" height="162" alt="image" src="https://github.com/user-attachments/assets/3aea86f6-a2c9-421e-af18-85deb625ea21" />
+  <img width="1198" height="382" alt="image" src="https://github.com/user-attachments/assets/8602db80-fbfa-443a-ba70-55a4b1eb4727" />
 </p>
 
 <h4>Step 45. Lorem</h4>
