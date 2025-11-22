@@ -461,10 +461,11 @@ In Part 2, we configured the core administrative structure that powers the osTic
   <img width="1066" height="979" alt="image" src="https://github.com/user-attachments/assets/711b7145-bb5b-462b-b662-daeed05e90cb" />
 </p>
 
-<h4>Step 50. Lorem</h4>
+<h4>Step 50. Post an Update Reply After Simulating Additional Information (John): In the ticket view, scroll down to the Post Reply box. In the text field, enter: “Customer reports that a restart resolved the issue. Closing out the ticket.” Then click Post Reply to add the update to the ticket.</h4>
 
 <p>
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img width="1040" height="980" alt="image" src="https://github.com/user-attachments/assets/88d26406-5a0f-4fbb-beb0-8086ba7c1522" />
+  <img width="1042" height="975" alt="image" src="https://github.com/user-attachments/assets/f3b96475-21bc-4763-9679-14344c6f7e7c" />
 </p>
 
 <h4>Step 51. Lorem</h4>
