@@ -430,16 +430,20 @@ In Part 2, we configured the core administrative structure that powers the osTic
   <img width="1176" height="566" alt="image" src="https://github.com/user-attachments/assets/933b9494-409d-4051-abd3-fe05e5b05100" />
 </p>
 
-<h4>Step 46. Lorem</h4>
+<h4>Step 46. Log In and Open the Ticket (John): Go to the Staff Control Panel login page (http://localhost/osTicket/scp/login.php) and log in as John. After signing in, open the Tickets tab and locate the ticket titled “accounting department needs adobe upgrade, broken.” Click the ticket number to open it and view the issue details from the agent’s perspective.</h4>
 
 <p>
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img width="1206" height="525" alt="image" src="https://github.com/user-attachments/assets/afe1ac89-f81a-4f17-8dbc-412618022a82" />
+  <img width="1201" height="438" alt="image" src="https://github.com/user-attachments/assets/6d830b9b-9f90-4c28-a17d-b8fda725d576" />
+  <img width="1175" height="622" alt="image" src="https://github.com/user-attachments/assets/2617b9a0-d0b5-40e4-92bf-8e697cb7f5ca" />
 </p>
 
-<h4>Step 47. Lorem</h4>
+<h4>Step 47. Update the Ticket's SLA Plan After Simulating Additional Information (John): In the ticket view, locate the SLA Plan field, click “Default SLA,” and change the SLA Plan to Sev-C, since the follow-up details from the end user indicate that only two employees are affected. In the Reason for Update box, enter: "Only two users are unable to open Adobe Reader, classifying as Sev-C." Then click Update to apply the changes.</h4>
 
 <p>
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img width="1175" height="622" alt="image" src="https://github.com/user-attachments/assets/43ce10e1-609e-4a98-aadb-87d95efdbf48" />
+  <img width="1033" height="614" alt="image" src="https://github.com/user-attachments/assets/b3b076ea-ee9d-4d37-ba95-e0b075e758f3" />
+  <img width="1037" height="658" alt="image" src="https://github.com/user-attachments/assets/ab81c04a-0620-4bd6-9122-f659e79a6d8c" />
 </p>
 
 <h4>Step 48. Lorem</h4>
