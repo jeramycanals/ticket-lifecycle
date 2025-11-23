@@ -531,10 +531,12 @@ In Part 2, we configured the core administrative structure that powers the osTic
   <img width="1010" height="657" alt="image" src="https://github.com/user-attachments/assets/e8caa780-c197-4e10-a415-cfba492b9023" />
 </p>
 
-<h4>Step 59. Lorem</h4>
+<h4>Step 59. Update the CFO Ticket's Assigned To (John): In the ticket view, locate the Assigned To field, click "— Unassigned —" and change the Assignee to John Doe. Then click Assign to apply the changes.</h4>
 
 <p>
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img width="1016" height="656" alt="image" src="https://github.com/user-attachments/assets/8d12428f-0928-499a-8a58-d19ca47cb726" />
+  <img width="1029" height="654" alt="image" src="https://github.com/user-attachments/assets/bd7d9ea0-4224-46d3-90af-63f1ff708b56" />
+  <img width="1013" height="664" alt="image" src="https://github.com/user-attachments/assets/76dc7419-14ba-4130-9137-344de7450d10" />
 </p>
 
 <h4>Step 60. Lorem</h4>
