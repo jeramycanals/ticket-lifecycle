@@ -515,10 +515,12 @@ In Part 2, we configured the core administrative structure that powers the osTic
   <img width="1031" height="619" alt="image" src="https://github.com/user-attachments/assets/7aa7c0a5-3b17-4459-a7bd-9b09fd10e9c5" />
 </p>
 
-<h4>Step 57. Lorem</h4>
+<h4>Step 57. Update the Ticket's Priority:  In the ticket view, locate the Priority field, click “Normal”, and change the Priority Level to "Emergency". In the Reason for Update box, enter: "The CFO is unable to use his laptop, preventing him from performing critical business functions. Escalating priority to Emergency." Then click Update to apply the changes.</h4>
 
 <p>
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img width="1020" height="621" alt="image" src="https://github.com/user-attachments/assets/5dbf9cec-5043-412f-a633-9d83efef6a93" />
+  <img width="1024" height="453" alt="image" src="https://github.com/user-attachments/assets/d90e81f5-5941-4b81-abf8-05f4280431e2" />
+  <img width="1014" height="659" alt="image" src="https://github.com/user-attachments/assets/321a7f84-5128-4787-bf20-78bfac95e42f" />
 </p>
 
 <h4>Step 58. Lorem</h4>
