@@ -558,7 +558,7 @@ In Part 2, we configured the core administrative structure that powers the osTic
 <h4>Part 3 Summary</h4>
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Part 3 focuses on the full ticket lifecycle from the perspective of both end users and help desk agents. We start by creating several tickets as different users, including high-impact issues like an online banking outage, department-level software problems, and a critical incident affecting the CFO. Each ticket is opened in the Staff Control Panel, where agents review its details, adjust the SLA plan, update the help topic, set the correct priority level, and assign the issue to the appropriate team or individual. Agents then post replies, gather additional information, document internal notes, escalate when needed, and simulate resolving each issue before marking the tickets as “Resolved.” The section ends by reviewing closed tickets and confirming that all updates and workflows behaved as expected. Overall, Part 3 demonstrates how real help desk environments manage, track, escalate, and close support requests from start to finish.
 </p>
 
 <h2>Conclusion</h2>
