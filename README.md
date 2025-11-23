@@ -539,10 +539,11 @@ In Part 2, we configured the core administrative structure that powers the osTic
   <img width="1013" height="664" alt="image" src="https://github.com/user-attachments/assets/76dc7419-14ba-4130-9137-344de7450d10" />
 </p>
 
-<h4>Step 60. Lorem</h4>
+<h4>Step 60. Post an Update Reply After Simulating Additional Information from the CFO (John): In the ticket view, scroll down to the Post Reply box. In the text field, enter: “CFO’s laptop was not charging due to a broken charger. Provided a new charger, and the laptop is now successfully powering on.” Then click Post Reply to add the update to the ticket.</h4>
 
 <p>
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img width="883" height="602" alt="image" src="https://github.com/user-attachments/assets/7459d328-a147-47a7-9d41-2840c468eede" />
+  <img width="934" height="677" alt="image" src="https://github.com/user-attachments/assets/3353d956-42a7-4af4-a9a8-a19f9a73bc73" />
 </p>
 
 <h4>Step 61. Lorem</h4>
