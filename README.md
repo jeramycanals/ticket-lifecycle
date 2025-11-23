@@ -546,10 +546,13 @@ In Part 2, we configured the core administrative structure that powers the osTic
   <img width="934" height="677" alt="image" src="https://github.com/user-attachments/assets/3353d956-42a7-4af4-a9a8-a19f9a73bc73" />
 </p>
 
-<h4>Step 61. Lorem</h4>
+<h4>Step 61. Resolve the CFO's Ticket (John): Scroll to the top of the ticket view and locate the Status field. Click “Open,” then select “Resolved.” A pop-up window will appear. Update the ticket status to Resolved, and in the Reason for Status Change box, enter: “Broken charger caused the laptop battery to drain completely, preventing it from powering on. Issue resolved after replacing charger.” Then click Close to apply the changes and mark the issue as completed. Once resolved, the ticket will disappear from the Open Tickets tab, confirming that it has been successfully closed.</h4>
 
 <p>
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img width="1017" height="958" alt="image" src="https://github.com/user-attachments/assets/2bca0011-63dc-4e45-9652-848c7c6af8fe" />
+  <img width="1011" height="656" alt="image" src="https://github.com/user-attachments/assets/f1fbe53d-a3b4-473e-bc23-95f4e8ce2549" />
+  <img width="1029" height="422" alt="image" src="https://github.com/user-attachments/assets/42aba4b0-fe4e-4430-852c-f38040ae5785" />
+  <img width="1021" height="409" alt="image" src="https://github.com/user-attachments/assets/16ffb430-a249-4257-b493-391d11cd11e7" />
 </p>
 
 <h4>Part 3 Summary</h4>
