@@ -564,7 +564,7 @@ Part 3 focuses on the full ticket lifecycle from the perspective of both end use
 <h2>Conclusion</h2>
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+This lab provided hands-on experience with building and managing a full help desk ticketing system from start to finish. By installing and configuring osTicket, setting up roles, departments, teams, SLAs, and help topics, and working through multiple real-world ticket scenarios, we explored how IT support teams organize and resolve issues in a structured environment. From creating tickets as end users to assigning, updating, escalating, and finally resolving them as help desk agents, this project shows the full workflow of a professional support system. This also connects directly to cybersecurity because strong ticket management helps teams detect patterns, escalate incidents quickly, document technical findings, and respond to security-related events. Understanding how tickets flow, how permissions work, and how incidents are handled builds a foundation for SOC work, incident response, secure operations, and overall IT security hygiene. Overall, this project strengthens both IT support and cybersecurity skills by showing how technical issues are reported, managed, investigated, and resolved in a structured environment.
 </p>
 
 <h2>Thank you for checking out my project!</h2>
