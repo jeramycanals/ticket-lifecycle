@@ -523,10 +523,12 @@ In Part 2, we configured the core administrative structure that powers the osTic
   <img width="1014" height="659" alt="image" src="https://github.com/user-attachments/assets/321a7f84-5128-4787-bf20-78bfac95e42f" />
 </p>
 
-<h4>Step 58. Lorem</h4>
+<h4>Step 58. Update the CFO Ticket's SLA Plan (John): In the ticket view, locate the SLA Plan field, click on "Default SLA", and change the SLA Plan to Sev-A, since the issue affects a C-level executive who has an upcoming meeting with the board and requires the fastest possible response time. In the Reason for Update box, enter: "C-level executive impact. Assigning Sev-A for immediate attention and fastest response." Then click Update to apply the changes.</h4>
 
 <p>
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img width="1015" height="652" alt="image" src="https://github.com/user-attachments/assets/77314346-01e2-4c73-a0ec-6cc743a3417e" />
+  <img width="1024" height="655" alt="image" src="https://github.com/user-attachments/assets/1a872d2d-e882-4ab5-8f54-a3589bd58361" />
+  <img width="1010" height="657" alt="image" src="https://github.com/user-attachments/assets/e8caa780-c197-4e10-a415-cfba492b9023" />
 </p>
 
 <h4>Step 59. Lorem</h4>
